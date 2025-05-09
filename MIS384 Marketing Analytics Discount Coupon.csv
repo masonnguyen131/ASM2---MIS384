@@ -1,0 +1,205 @@
+Year,Month,Product_Category,Coupon_Code,Discount_pct
+2024,Jan,Apparel,SALE10,10
+2024,Feb,Apparel,SALE20,20
+2024,Mar,Apparel,SALE30,30
+2024,Jan,Nest-USA,ELEC10,10
+2024,Feb,Nest-USA,ELEC20,20
+2024,Mar,Nest-USA,ELEC30,30
+2024,Jan,Office,OFF10,10
+2024,Feb,Office,OFF20,20
+2024,Mar,Office,OFF30,30
+2024,Jan,Drinkware,EXTRA10,10
+2024,Feb,Drinkware,EXTRA20,20
+2024,Mar,Drinkware,EXTRA30,30
+2024,Jan,Lifestyle,EXTRA10,10
+2024,Feb,Lifestyle,EXTRA20,20
+2024,Mar,Lifestyle,EXTRA30,30
+2024,Jan,Bags,AIO10,10
+2024,Feb,Bags,AIO20,20
+2024,Mar,Bags,AIO30,30
+2024,Jan,Notebooks,NOTES10,10
+2024,Feb,Notebooks,NOTES20,20
+2024,Mar,Notebooks,NOTES30,30
+2024,Jan,Headgear,HGEAR10,10
+2024,Feb,Headgear,HGEAR20,20
+2024,Mar,Headgear,HGEAR30,30
+2024,Jan,Nest,NE10,10
+2024,Feb,Nest,NE20,20
+2024,Mar,Nest,NE30,30
+2024,Jan,Waze,WEMP10,10
+2024,Feb,Waze,WEMP20,20
+2024,Mar,Waze,WEMP30,30
+2024,Jan,Bottles,BT10,10
+2024,Feb,Bottles,BT20,20
+2024,Mar,Bottles,BT30,30
+2024,Jan,Nest-Canada,NCA10,10
+2024,Feb,Nest-Canada,NCA20,20
+2024,Mar,Nest-Canada,NCA30,30
+2024,Jan,Housewares,HOU10,10
+2024,Feb,Housewares,HOU20,20
+2024,Mar,Housewares,HOU30,30
+2024,Jan,Accessories,ACC10,10
+2024,Feb,Accessories,ACC20,20
+2024,Mar,Accessories,ACC30,30
+2024,Jan,Gift Cards,GC10,10
+2024,Feb,Gift Cards,GC20,20
+2024,Mar,Gift Cards,GC30,30
+2024,Jan,Notebooks & Journals,NJ10,10
+2024,Feb,Notebooks & Journals,NJ20,20
+2024,Mar,Notebooks & Journals,NJ30,30
+2024,Jan,Android,AND10,10
+2024,Feb,Android,AND20,20
+2024,Mar,Android,AND30,30
+2024,Apr,Apparel,SALE10,10
+2024,May,Apparel,SALE20,20
+2024,Jun,Apparel,SALE30,30
+2024,Apr,Nest-USA,ELEC10,10
+2024,May,Nest-USA,ELEC20,20
+2024,Jun,Nest-USA,ELEC30,30
+2024,Apr,Office,OFF10,10
+2024,May,Office,OFF20,20
+2024,Jun,Office,OFF30,30
+2024,Apr,Drinkware,EXTRA10,10
+2024,May,Drinkware,EXTRA20,20
+2024,Jun,Drinkware,EXTRA30,30
+2024,Apr,Lifestyle,EXTRA10,10
+2024,May,Lifestyle,EXTRA20,20
+2024,Jun,Lifestyle,EXTRA30,30
+2024,Apr,Bags,AIO10,10
+2024,May,Bags,AIO20,20
+2024,Jun,Bags,AIO30,30
+2024,Apr,Notebooks,NOTES10,10
+2024,May,Notebooks,NOTES20,20
+2024,Jun,Notebooks,NOTES30,30
+2024,Apr,Headgear,HGEAR10,10
+2024,May,Headgear,HGEAR20,20
+2024,Jun,Headgear,HGEAR30,30
+2024,Apr,Nest,NE10,10
+2024,May,Nest,NE20,20
+2024,Jun,Nest,NE30,30
+2024,Apr,Waze,WEMP10,10
+2024,May,Waze,WEMP20,20
+2024,Jun,Waze,WEMP30,30
+2024,Apr,Bottles,BT10,10
+2024,May,Bottles,BT20,20
+2024,Jun,Bottles,BT30,30
+2024,Apr,Nest-Canada,NCA10,10
+2024,May,Nest-Canada,NCA20,20
+2024,Jun,Nest-Canada,NCA30,30
+2024,Apr,Housewares,HOU10,10
+2024,May,Housewares,HOU20,20
+2024,Jun,Housewares,HOU30,30
+2024,Apr,Accessories,ACC10,10
+2024,May,Accessories,ACC20,20
+2024,Jun,Accessories,ACC30,30
+2024,Apr,Gift Cards,GC10,10
+2024,May,Gift Cards,GC20,20
+2024,Jun,Gift Cards,GC30,30
+2024,Apr,Notebooks & Journals,NJ10,10
+2024,May,Notebooks & Journals,NJ20,20
+2024,Jun,Notebooks & Journals,NJ30,30
+2024,Apr,Android,AND10,10
+2024,May,Android,AND20,20
+2024,Jun,Android,AND30,30
+2024,Jul,Apparel,SALE10,10
+2024,Aug,Apparel,SALE20,20
+2024,Sep,Apparel,SALE30,30
+2024,Jul,Nest-USA,ELEC10,10
+2024,Aug,Nest-USA,ELEC20,20
+2024,Sep,Nest-USA,ELEC30,30
+2024,Jul,Office,OFF10,10
+2024,Aug,Office,OFF20,20
+2024,Sep,Office,OFF30,30
+2024,Jul,Drinkware,EXTRA10,10
+2024,Aug,Drinkware,EXTRA20,20
+2024,Sep,Drinkware,EXTRA30,30
+2024,Jul,Lifestyle,EXTRA10,10
+2024,Aug,Lifestyle,EXTRA20,20
+2024,Sep,Lifestyle,EXTRA30,30
+2024,Jul,Bags,AIO10,10
+2024,Aug,Bags,AIO20,20
+2024,Sep,Bags,AIO30,30
+2024,Jul,Notebooks,NOTES10,10
+2024,Aug,Notebooks,NOTES20,20
+2024,Sep,Notebooks,NOTES30,30
+2024,Jul,Headgear,HGEAR10,10
+2024,Aug,Headgear,HGEAR20,20
+2024,Sep,Headgear,HGEAR30,30
+2024,Jul,Nest,NE10,10
+2024,Aug,Nest,NE20,20
+2024,Sep,Nest,NE30,30
+2024,Jul,Waze,WEMP10,10
+2024,Aug,Waze,WEMP20,20
+2024,Sep,Waze,WEMP30,30
+2024,Jul,Bottles,BT10,10
+2024,Aug,Bottles,BT20,20
+2024,Sep,Bottles,BT30,30
+2024,Jul,Nest-Canada,NCA10,10
+2024,Aug,Nest-Canada,NCA20,20
+2024,Sep,Nest-Canada,NCA30,30
+2024,Jul,Housewares,HOU10,10
+2024,Aug,Housewares,HOU20,20
+2024,Sep,Housewares,HOU30,30
+2024,Jul,Accessories,ACC10,10
+2024,Aug,Accessories,ACC20,20
+2024,Sep,Accessories,ACC30,30
+2024,Jul,Gift Cards,GC10,10
+2024,Aug,Gift Cards,GC20,20
+2024,Sep,Gift Cards,GC30,30
+2024,Jul,Notebooks & Journals,NJ10,10
+2024,Aug,Notebooks & Journals,NJ20,20
+2024,Sep,Notebooks & Journals,NJ30,30
+2024,Jul,Android,AND10,10
+2024,Aug,Android,AND20,20
+2024,Sep,Android,AND30,30
+2024,Oct,Apparel,SALE10,10
+2024,Nov,Apparel,SALE20,20
+2024,Dec,Apparel,SALE30,30
+2024,Oct,Nest-USA,ELEC10,10
+2024,Nov,Nest-USA,ELEC20,20
+2024,Dec,Nest-USA,ELEC30,30
+2024,Oct,Office,OFF10,10
+2024,Nov,Office,OFF20,20
+2024,Dec,Office,OFF30,30
+2024,Oct,Drinkware,EXTRA10,10
+2024,Nov,Drinkware,EXTRA20,20
+2024,Dec,Drinkware,EXTRA30,30
+2024,Oct,Lifestyle,EXTRA10,10
+2024,Nov,Lifestyle,EXTRA20,20
+2024,Dec,Lifestyle,EXTRA30,30
+2024,Oct,Bags,AIO10,10
+2024,Nov,Bags,AIO20,20
+2024,Dec,Bags,AIO30,30
+2024,Oct,Notebooks,NOTES10,10
+2024,Nov,Notebooks,NOTES20,20
+2024,Dec,Notebooks,NOTES30,30
+2024,Oct,Headgear,HGEAR10,10
+2024,Nov,Headgear,HGEAR20,20
+2024,Dec,Headgear,HGEAR30,30
+2024,Oct,Nest,NE10,10
+2024,Nov,Nest,NE20,20
+2024,Dec,Nest,NE30,30
+2024,Oct,Waze,WEMP10,10
+2024,Nov,Waze,WEMP20,20
+2024,Dec,Waze,WEMP30,30
+2024,Oct,Bottles,BT10,10
+2024,Nov,Bottles,BT20,20
+2024,Dec,Bottles,BT30,30
+2024,Oct,Nest-Canada,NCA10,10
+2024,Nov,Nest-Canada,NCA20,20
+2024,Dec,Nest-Canada,NCA30,30
+2024,Oct,Housewares,HOU10,10
+2024,Nov,Housewares,HOU20,20
+2024,Dec,Housewares,HOU30,30
+2024,Oct,Accessories,ACC10,10
+2024,Nov,Accessories,ACC20,20
+2024,Dec,Accessories,ACC30,30
+2024,Oct,Gift Cards,GC10,10
+2024,Nov,Gift Cards,GC20,20
+2024,Dec,Gift Cards,GC30,30
+2024,Oct,Notebooks & Journals,NJ10,10
+2024,Nov,Notebooks & Journals,NJ20,20
+2024,Dec,Notebooks & Journals,NJ30,30
+2024,Oct,Android,AND10,10
+2024,Nov,Android,AND20,20
+2024,Dec,Android,AND30,30

@@ -1,0 +1,1469 @@
+CustomerID,Age,Gender,Marital Status,Education Level,Occupation,Income Level,Interactions with Customer Service,Customer Preferences,Preferred Contact Time,Preferred Language
+12346,51,Male,Divorced,Master's Degree,Engineer,94240,In-Person,Phone,Anytime,German
+12347,68,Female,Separated,Master's Degree,Entrepreneur,144755,Email,Text,Anytime,English
+12348,47,Male,Married,Doctorate,Nurse,25296,Chat,In-Person Meeting,Afternoon,German
+12350,20,Male,Separated,Bachelor's Degree,Nurse,36374,Mobile App,Text,Anytime,Spanish
+12356,57,Male,Widowed,Associate Degree,Nurse,34689,Chat,Email,Anytime,Mandarin
+12359,70,Female,Separated,High School Diploma,Artist,119339,Chat,In-Person Meeting,Morning,Spanish
+12370,63,Male,Widowed,Associate Degree,Artist,55266,Chat,Phone,Evening,French
+12373,62,Male,Single,Bachelor's Degree,Engineer,37980,In-Person,Text,Weekends,Spanish
+12377,63,Male,Married,Associate Degree,Nurse,147321,Chat,Email,Morning,German
+12383,68,Male,Separated,Master's Degree,Lawyer,129768,Chat,Mail,Morning,French
+12386,51,Male,Widowed,Bachelor's Degree,Doctor,122988,In-Person,Phone,Weekends,French
+12388,30,Male,Married,Master's Degree,Entrepreneur,33299,Mobile App,Phone,Afternoon,Mandarin
+12393,27,Male,Divorced,Master's Degree,Entrepreneur,83411,In-Person,Mail,Weekends,Spanish
+12395,39,Female,Widowed,High School Diploma,Salesperson,78823,Mobile App,In-Person Meeting,Weekends,German
+12402,23,Male,Divorced,High School Diploma,Artist,83859,Email,Phone,Weekends,German
+12410,34,Male,Widowed,Associate Degree,Salesperson,131355,Chat,In-Person Meeting,Morning,French
+12413,53,Male,Married,Doctorate,Nurse,115670,Mobile App,Email,Morning,Mandarin
+12414,54,Female,Married,Master's Degree,Entrepreneur,23293,In-Person,Mail,Weekends,Spanish
+12415,56,Male,Single,High School Diploma,Doctor,123095,Chat,Mail,Morning,Mandarin
+12417,62,Male,Married,High School Diploma,Salesperson,88037,Phone,Email,Evening,French
+12421,68,Male,Single,Associate Degree,Teacher,58603,Chat,Email,Afternoon,English
+12422,33,Male,Widowed,Master's Degree,Teacher,94471,Chat,In-Person Meeting,Morning,German
+12423,34,Female,Married,High School Diploma,Doctor,60674,Phone,Text,Evening,Mandarin
+12427,26,Female,Married,Associate Degree,Nurse,43205,Chat,Mail,Evening,Spanish
+12429,36,Male,Widowed,High School Diploma,Entrepreneur,96311,In-Person,Phone,Afternoon,Spanish
+12431,53,Male,Single,Bachelor's Degree,Engineer,29783,Chat,In-Person Meeting,Afternoon,Spanish
+12433,27,Male,Separated,Bachelor's Degree,Doctor,40098,In-Person,In-Person Meeting,Morning,German
+12434,52,Male,Married,Associate Degree,Lawyer,144973,Chat,Text,Afternoon,Spanish
+12437,44,Female,Separated,Doctorate,Salesperson,29173,Mobile App,Phone,Evening,German
+12441,53,Male,Divorced,High School Diploma,Nurse,68037,Email,Email,Morning,German
+12451,68,Female,Widowed,Bachelor's Degree,Entrepreneur,115837,Phone,In-Person Meeting,Weekends,German
+12464,20,Male,Separated,Bachelor's Degree,Nurse,52467,Mobile App,Phone,Weekends,German
+12468,19,Female,Married,Bachelor's Degree,Salesperson,121084,In-Person,Mail,Evening,Mandarin
+12471,21,Male,Married,Bachelor's Degree,Doctor,83525,Email,In-Person Meeting,Weekends,English
+12472,62,Female,Single,High School Diploma,Salesperson,34851,In-Person,Mail,Anytime,English
+12474,48,Male,Separated,High School Diploma,Entrepreneur,121006,In-Person,Text,Anytime,French
+12476,40,Male,Married,Bachelor's Degree,Engineer,106079,Mobile App,Phone,Anytime,German
+12477,67,Male,Married,Associate Degree,Manager,72551,Phone,In-Person Meeting,Anytime,Mandarin
+12480,23,Male,Single,Doctorate,Entrepreneur,34821,In-Person,In-Person Meeting,Morning,French
+12481,26,Male,Divorced,Master's Degree,Manager,34705,In-Person,In-Person Meeting,Anytime,German
+12483,54,Male,Single,Associate Degree,Salesperson,46546,Chat,Mail,Weekends,French
+12484,31,Female,Widowed,Bachelor's Degree,Entrepreneur,78327,Mobile App,Phone,Anytime,Spanish
+12489,54,Female,Widowed,Master's Degree,Salesperson,78382,In-Person,Mail,Anytime,Mandarin
+12490,65,Male,Separated,Master's Degree,Artist,73018,Mobile App,Phone,Anytime,German
+12494,32,Male,Divorced,Bachelor's Degree,Doctor,119963,Chat,Mail,Afternoon,Spanish
+12500,38,Male,Separated,Associate Degree,Lawyer,25836,Chat,Email,Morning,Mandarin
+12501,37,Male,Separated,Doctorate,Teacher,86059,Phone,Email,Afternoon,Spanish
+12502,24,Male,Divorced,Doctorate,Engineer,134103,Email,Mail,Morning,English
+12503,36,Female,Widowed,Associate Degree,Artist,41419,Chat,In-Person Meeting,Evening,Mandarin
+12510,58,Female,Married,Doctorate,Artist,36953,Mobile App,Email,Morning,German
+12515,70,Female,Married,Associate Degree,Lawyer,65442,In-Person,Phone,Morning,Spanish
+12523,65,Female,Widowed,Associate Degree,Lawyer,33756,Chat,Text,Afternoon,German
+12524,34,Male,Widowed,Associate Degree,Salesperson,38885,In-Person,Phone,Weekends,English
+12527,37,Female,Divorced,Doctorate,Doctor,123077,Mobile App,In-Person Meeting,Morning,French
+12528,27,Male,Single,Doctorate,Salesperson,55887,Mobile App,Text,Afternoon,German
+12530,39,Female,Separated,Bachelor's Degree,Doctor,121380,Mobile App,In-Person Meeting,Afternoon,Spanish
+12539,53,Female,Single,Doctorate,Manager,51777,In-Person,Text,Weekends,German
+12540,68,Female,Divorced,Bachelor's Degree,Doctor,123118,Phone,Text,Morning,German
+12551,37,Male,Married,Associate Degree,Salesperson,141718,Chat,Email,Weekends,French
+12553,22,Male,Married,High School Diploma,Doctor,55452,Mobile App,Email,Anytime,German
+12557,40,Male,Married,Associate Degree,Doctor,96555,Chat,Mail,Morning,German
+12559,21,Male,Married,High School Diploma,Teacher,67736,In-Person,Phone,Morning,Spanish
+12567,32,Female,Widowed,High School Diploma,Manager,35257,Chat,In-Person Meeting,Evening,Spanish
+12574,59,Male,Divorced,Doctorate,Salesperson,120460,In-Person,Mail,Morning,Mandarin
+12577,46,Male,Widowed,High School Diploma,Nurse,39658,In-Person,Mail,Evening,French
+12578,69,Male,Divorced,Doctorate,Nurse,98168,Mobile App,Mail,Weekends,German
+12583,29,Female,Single,Associate Degree,Entrepreneur,73899,Email,Email,Evening,German
+12585,64,Male,Widowed,High School Diploma,Lawyer,31070,Mobile App,Phone,Anytime,German
+12586,23,Male,Divorced,Associate Degree,Manager,71025,Email,Email,Anytime,German
+12591,62,Male,Widowed,High School Diploma,Entrepreneur,120649,In-Person,Email,Weekends,German
+12594,26,Female,Divorced,Doctorate,Manager,73926,In-Person,Mail,Weekends,Mandarin
+12600,30,Male,Divorced,High School Diploma,Salesperson,96156,Chat,In-Person Meeting,Weekends,German
+12601,38,Male,Single,Associate Degree,Engineer,63417,Chat,Text,Morning,Spanish
+12605,33,Male,Widowed,Associate Degree,Nurse,82642,Phone,Text,Morning,English
+12609,56,Female,Single,Doctorate,Doctor,110862,Mobile App,Text,Afternoon,German
+12621,46,Male,Single,High School Diploma,Entrepreneur,33344,Phone,Email,Anytime,English
+12625,66,Male,Married,High School Diploma,Lawyer,52269,Phone,Email,Anytime,French
+12626,63,Female,Single,Doctorate,Lawyer,25151,Mobile App,Mail,Afternoon,English
+12637,64,Male,Separated,Master's Degree,Engineer,42322,Email,Email,Anytime,French
+12643,55,Male,Divorced,High School Diploma,Entrepreneur,36031,Phone,In-Person Meeting,Evening,English
+12645,69,Male,Single,Doctorate,Nurse,38328,Email,Email,Weekends,English
+12647,37,Male,Married,Doctorate,Doctor,100478,Mobile App,Phone,Anytime,Mandarin
+12649,58,Female,Separated,Bachelor's Degree,Manager,103805,Mobile App,Text,Anytime,Mandarin
+12651,43,Male,Married,Associate Degree,Manager,30379,In-Person,In-Person Meeting,Weekends,German
+12652,48,Male,Married,Master's Degree,Lawyer,42467,Chat,In-Person Meeting,Weekends,German
+12662,36,Male,Widowed,Associate Degree,Lawyer,70835,Chat,Text,Evening,Spanish
+12664,58,Male,Single,Doctorate,Salesperson,119912,Chat,In-Person Meeting,Anytime,German
+12665,61,Male,Divorced,Master's Degree,Doctor,75863,Mobile App,Email,Evening,German
+12666,55,Female,Divorced,Associate Degree,Teacher,58584,In-Person,Phone,Evening,Mandarin
+12668,25,Female,Single,Associate Degree,Salesperson,138240,Mobile App,Email,Weekends,English
+12672,63,Male,Single,Associate Degree,Lawyer,69187,In-Person,Phone,Afternoon,Spanish
+12673,69,Female,Single,Associate Degree,Engineer,92071,Phone,Phone,Afternoon,German
+12676,32,Female,Separated,Associate Degree,Lawyer,91985,Chat,In-Person Meeting,Morning,English
+12678,20,Male,Divorced,Doctorate,Salesperson,124194,Phone,In-Person Meeting,Anytime,English
+12681,55,Male,Widowed,Doctorate,Teacher,65081,Email,Email,Evening,French
+12682,64,Female,Divorced,Doctorate,Nurse,88726,Phone,Phone,Morning,German
+12683,69,Female,Widowed,Bachelor's Degree,Salesperson,52370,Email,Email,Morning,German
+12686,36,Male,Single,Associate Degree,Engineer,97476,Mobile App,Text,Weekends,Mandarin
+12691,40,Female,Married,Doctorate,Manager,49562,Chat,Mail,Weekends,German
+12693,64,Male,Married,Bachelor's Degree,Salesperson,134266,In-Person,In-Person Meeting,Afternoon,French
+12705,45,Female,Separated,Associate Degree,Salesperson,100985,Email,Text,Evening,German
+12708,49,Female,Separated,Doctorate,Salesperson,120754,In-Person,Phone,Weekends,French
+12709,61,Female,Widowed,High School Diploma,Doctor,26649,Phone,Text,Evening,German
+12712,47,Male,Widowed,Doctorate,Doctor,71557,Phone,Text,Anytime,German
+12720,66,Male,Married,Doctorate,Salesperson,40562,Chat,Phone,Anytime,English
+12721,35,Female,Married,Doctorate,Nurse,111095,Chat,Mail,Weekends,French
+12724,51,Male,Single,Associate Degree,Artist,46189,Mobile App,Mail,Morning,German
+12725,22,Male,Married,Bachelor's Degree,Artist,34620,In-Person,Phone,Weekends,French
+12726,35,Female,Widowed,Associate Degree,Doctor,26062,Phone,Email,Afternoon,Mandarin
+12727,39,Male,Separated,Associate Degree,Lawyer,139137,In-Person,Email,Evening,French
+12728,33,Female,Single,Associate Degree,Entrepreneur,48412,In-Person,Text,Morning,English
+12731,66,Female,Widowed,Doctorate,Engineer,71342,Chat,Mail,Morning,German
+12734,25,Female,Married,Doctorate,Artist,65277,In-Person,Phone,Weekends,English
+12735,37,Female,Married,Master's Degree,Entrepreneur,91593,Mobile App,In-Person Meeting,Morning,French
+12736,44,Female,Married,Doctorate,Manager,56830,Chat,In-Person Meeting,Anytime,French
+12738,53,Female,Widowed,Doctorate,Nurse,40030,Mobile App,Mail,Evening,English
+12744,36,Male,Single,Master's Degree,Lawyer,75338,Chat,In-Person Meeting,Anytime,Spanish
+12747,51,Female,Widowed,Associate Degree,Entrepreneur,134300,In-Person,Mail,Weekends,French
+12748,24,Male,Single,Doctorate,Nurse,123454,Mobile App,Phone,Weekends,English
+12753,23,Female,Widowed,Doctorate,Engineer,38200,Chat,Phone,Evening,Mandarin
+12754,46,Female,Separated,Master's Degree,Doctor,88877,Chat,In-Person Meeting,Evening,French
+12755,42,Female,Single,Doctorate,Entrepreneur,86336,Mobile App,In-Person Meeting,Anytime,English
+12763,29,Female,Divorced,Associate Degree,Manager,132984,Phone,In-Person Meeting,Evening,Spanish
+12764,64,Male,Separated,Master's Degree,Manager,82151,Mobile App,Email,Afternoon,German
+12766,32,Male,Widowed,Associate Degree,Doctor,52422,Chat,Text,Weekends,Mandarin
+12775,26,Female,Separated,Master's Degree,Doctor,37356,Email,Mail,Anytime,English
+12778,25,Male,Married,Bachelor's Degree,Entrepreneur,128301,In-Person,Mail,Weekends,English
+12779,35,Male,Single,Doctorate,Teacher,99168,Chat,Phone,Weekends,French
+12782,30,Female,Separated,Master's Degree,Salesperson,81440,Phone,In-Person Meeting,Afternoon,French
+12785,39,Male,Single,High School Diploma,Teacher,92375,Chat,Text,Anytime,German
+12791,43,Male,Single,Master's Degree,Nurse,89640,Chat,Email,Evening,German
+12793,42,Female,Divorced,Doctorate,Doctor,92123,Chat,Mail,Morning,German
+12797,45,Male,Married,Bachelor's Degree,Engineer,26722,Chat,Mail,Weekends,French
+12808,27,Female,Widowed,Master's Degree,Salesperson,143756,Phone,In-Person Meeting,Morning,German
+12820,41,Female,Widowed,Bachelor's Degree,Doctor,89623,In-Person,In-Person Meeting,Afternoon,French
+12826,31,Male,Divorced,Master's Degree,Engineer,32606,Mobile App,Phone,Morning,Spanish
+12829,41,Female,Widowed,High School Diploma,Salesperson,91211,Mobile App,Text,Weekends,German
+12836,37,Female,Divorced,Associate Degree,Engineer,72400,In-Person,Mail,Morning,German
+12838,52,Male,Divorced,Master's Degree,Entrepreneur,53299,In-Person,Email,Morning,English
+12839,24,Female,Divorced,Doctorate,Teacher,25322,Email,Phone,Afternoon,Spanish
+12841,70,Male,Married,Bachelor's Degree,Teacher,118783,Chat,Text,Morning,English
+12842,35,Female,Divorced,Associate Degree,Artist,39911,Chat,Mail,Evening,French
+12853,67,Male,Single,Bachelor's Degree,Lawyer,133431,Chat,Email,Weekends,Spanish
+12854,37,Female,Single,Doctorate,Teacher,145000,Chat,In-Person Meeting,Afternoon,French
+12855,37,Male,Divorced,High School Diploma,Teacher,34173,In-Person,Phone,Weekends,German
+12865,26,Female,Separated,Associate Degree,Manager,75667,In-Person,Text,Weekends,German
+12867,48,Female,Single,Master's Degree,Teacher,121737,Phone,Text,Morning,English
+12868,43,Female,Separated,Associate Degree,Teacher,146348,Phone,Mail,Morning,Mandarin
+12870,57,Male,Divorced,Doctorate,Teacher,66294,Mobile App,Email,Evening,French
+12872,57,Male,Single,High School Diploma,Artist,60656,Chat,Text,Weekends,English
+12875,42,Female,Separated,High School Diploma,Teacher,24115,Mobile App,In-Person Meeting,Anytime,Mandarin
+12877,38,Female,Single,Doctorate,Salesperson,57658,Email,Email,Afternoon,Mandarin
+12908,54,Female,Widowed,Master's Degree,Doctor,117501,In-Person,Text,Anytime,Mandarin
+12913,45,Female,Separated,High School Diploma,Manager,40903,In-Person,In-Person Meeting,Afternoon,French
+12915,20,Female,Married,Doctorate,Entrepreneur,80974,Mobile App,Phone,Afternoon,Mandarin
+12916,70,Female,Single,Associate Degree,Salesperson,83933,Email,Text,Morning,French
+12921,34,Female,Married,High School Diploma,Entrepreneur,83653,Chat,Email,Morning,Mandarin
+12924,41,Male,Divorced,High School Diploma,Salesperson,40241,Chat,Email,Evening,French
+12928,69,Female,Widowed,Master's Degree,Artist,89985,Mobile App,Text,Morning,German
+12929,54,Male,Married,Associate Degree,Artist,136983,Mobile App,Email,Anytime,German
+12931,20,Male,Married,High School Diploma,Artist,57296,Email,Email,Anytime,Mandarin
+12935,66,Female,Separated,Bachelor's Degree,Teacher,51118,Chat,Email,Afternoon,English
+12939,58,Female,Single,Doctorate,Teacher,81266,Chat,Mail,Weekends,Mandarin
+12942,35,Male,Single,High School Diploma,Lawyer,67498,In-Person,Phone,Weekends,French
+12944,39,Female,Single,Associate Degree,Engineer,127476,Chat,Email,Morning,French
+12947,30,Male,Single,Doctorate,Manager,38437,Phone,Text,Evening,French
+12951,46,Female,Married,Bachelor's Degree,Salesperson,60507,In-Person,Text,Evening,German
+12956,46,Male,Widowed,Doctorate,Doctor,72803,Phone,Mail,Morning,Mandarin
+12957,25,Male,Divorced,Bachelor's Degree,Manager,71459,In-Person,Mail,Afternoon,French
+12963,37,Male,Single,High School Diploma,Artist,53373,In-Person,Text,Weekends,French
+12967,45,Male,Divorced,Master's Degree,Manager,34479,Mobile App,Phone,Weekends,German
+12970,28,Male,Married,Associate Degree,Entrepreneur,33679,Mobile App,Email,Evening,English
+12971,52,Male,Divorced,Bachelor's Degree,Engineer,55137,Email,Email,Afternoon,German
+12980,54,Male,Married,Bachelor's Degree,Lawyer,84497,In-Person,Mail,Morning,French
+12989,68,Female,Married,High School Diploma,Salesperson,64316,In-Person,Phone,Anytime,Spanish
+12990,37,Male,Divorced,Bachelor's Degree,Entrepreneur,115811,Mobile App,Phone,Weekends,Spanish
+12997,62,Female,Divorced,High School Diploma,Doctor,76042,Chat,Phone,Evening,German
+13000,42,Male,Separated,Bachelor's Degree,Salesperson,106222,Chat,In-Person Meeting,Morning,English
+13001,41,Male,Married,Master's Degree,Manager,38761,Email,Phone,Morning,French
+13002,69,Female,Single,High School Diploma,Salesperson,99394,Phone,Text,Morning,English
+13004,33,Male,Widowed,Associate Degree,Nurse,90923,Chat,Mail,Afternoon,German
+13008,69,Female,Widowed,Master's Degree,Manager,117853,Phone,In-Person Meeting,Evening,Mandarin
+13011,40,Female,Married,Doctorate,Teacher,129889,Chat,Mail,Weekends,English
+13013,37,Male,Widowed,High School Diploma,Lawyer,48832,Mobile App,Phone,Afternoon,Spanish
+13021,70,Female,Widowed,High School Diploma,Artist,119272,In-Person,Email,Morning,English
+13027,56,Female,Divorced,Doctorate,Lawyer,111672,Phone,Email,Anytime,Spanish
+13029,26,Male,Separated,Associate Degree,Entrepreneur,122107,Email,Email,Weekends,English
+13030,57,Female,Single,Master's Degree,Entrepreneur,92715,Chat,Text,Anytime,Mandarin
+13033,41,Male,Married,Doctorate,Nurse,68616,Chat,Phone,Evening,French
+13034,26,Female,Single,High School Diploma,Doctor,124896,Chat,Email,Morning,English
+13047,26,Male,Widowed,Doctorate,Manager,54168,Chat,Mail,Morning,French
+13048,25,Male,Widowed,Bachelor's Degree,Salesperson,85973,Mobile App,Text,Anytime,English
+13049,29,Male,Single,High School Diploma,Teacher,64271,In-Person,Text,Evening,French
+13050,20,Male,Widowed,Doctorate,Nurse,99688,Mobile App,Phone,Weekends,German
+13064,53,Female,Single,Doctorate,Teacher,39532,Email,Text,Morning,Mandarin
+13065,40,Male,Widowed,Bachelor's Degree,Manager,118299,Chat,Email,Weekends,French
+13068,67,Male,Single,Master's Degree,Teacher,144555,In-Person,Phone,Evening,Mandarin
+13069,60,Female,Separated,Bachelor's Degree,Lawyer,89222,Mobile App,Text,Evening,French
+13077,24,Male,Single,Bachelor's Degree,Manager,129047,Email,Phone,Weekends,Mandarin
+13078,54,Male,Separated,Associate Degree,Engineer,67271,Chat,Mail,Weekends,Spanish
+13081,28,Female,Married,Master's Degree,Artist,100499,Chat,Email,Afternoon,English
+13082,56,Female,Single,Master's Degree,Entrepreneur,106205,Mobile App,Mail,Weekends,Mandarin
+13089,24,Female,Divorced,High School Diploma,Nurse,96639,In-Person,Email,Evening,English
+13090,35,Female,Widowed,Doctorate,Engineer,136314,Chat,Text,Anytime,French
+13092,69,Female,Married,Doctorate,Nurse,68136,Mobile App,Email,Morning,English
+13093,40,Female,Married,Doctorate,Engineer,63964,In-Person,Mail,Weekends,Spanish
+13094,36,Male,Married,Associate Degree,Engineer,47708,Chat,Email,Evening,Mandarin
+13097,32,Male,Single,Master's Degree,Lawyer,61263,Phone,Email,Weekends,French
+13098,31,Male,Widowed,Bachelor's Degree,Artist,109072,Email,Email,Morning,English
+13102,34,Female,Separated,Doctorate,Teacher,53413,Phone,Text,Morning,German
+13104,39,Female,Married,Master's Degree,Teacher,69922,Mobile App,Text,Anytime,Mandarin
+13107,47,Female,Single,Master's Degree,Salesperson,40112,In-Person,Phone,Weekends,German
+13108,47,Female,Married,High School Diploma,Salesperson,122889,Mobile App,Text,Evening,German
+13110,29,Female,Widowed,Doctorate,Doctor,68993,Email,Phone,Weekends,English
+13113,44,Male,Married,High School Diploma,Teacher,149079,Email,Text,Weekends,Mandarin
+13115,69,Male,Widowed,Associate Degree,Artist,102492,Chat,Email,Weekends,English
+13117,33,Female,Single,High School Diploma,Nurse,37106,Phone,Phone,Evening,Mandarin
+13124,52,Female,Widowed,Bachelor's Degree,Nurse,36562,Email,Mail,Evening,English
+13126,33,Female,Separated,High School Diploma,Entrepreneur,44649,Email,Text,Weekends,German
+13136,63,Female,Separated,High School Diploma,Manager,121338,Chat,Mail,Morning,German
+13137,37,Male,Single,Associate Degree,Artist,118012,Email,Mail,Anytime,Spanish
+13138,20,Male,Widowed,High School Diploma,Entrepreneur,81854,In-Person,Email,Morning,French
+13140,70,Male,Separated,Associate Degree,Teacher,81326,Phone,Text,Morning,Spanish
+13141,35,Female,Widowed,High School Diploma,Engineer,55936,In-Person,Phone,Anytime,Mandarin
+13144,25,Male,Divorced,Associate Degree,Salesperson,36451,Email,Mail,Afternoon,French
+13145,64,Male,Single,Doctorate,Entrepreneur,69067,Mobile App,Mail,Afternoon,French
+13148,38,Female,Widowed,Associate Degree,Doctor,119776,Chat,Email,Weekends,German
+13155,54,Female,Divorced,Doctorate,Salesperson,51446,Email,Phone,Weekends,Mandarin
+13158,41,Female,Married,High School Diploma,Engineer,71058,In-Person,Phone,Morning,German
+13161,49,Male,Married,Associate Degree,Entrepreneur,24936,Chat,Mail,Weekends,German
+13162,45,Female,Single,Doctorate,Nurse,109161,Mobile App,Mail,Anytime,English
+13165,41,Male,Widowed,Doctorate,Manager,42738,In-Person,In-Person Meeting,Afternoon,French
+13168,25,Male,Separated,High School Diploma,Salesperson,130729,Mobile App,Phone,Weekends,Mandarin
+13173,39,Male,Divorced,Doctorate,Salesperson,54959,Phone,Phone,Anytime,Spanish
+13174,64,Male,Married,Doctorate,Salesperson,132654,Phone,Mail,Weekends,German
+13178,51,Female,Married,Doctorate,Salesperson,41433,Email,Phone,Weekends,English
+13183,62,Female,Single,Doctorate,Nurse,61488,Mobile App,Mail,Anytime,German
+13187,25,Male,Married,Bachelor's Degree,Engineer,31676,Phone,In-Person Meeting,Morning,Mandarin
+13198,65,Male,Separated,High School Diploma,Teacher,129722,Mobile App,Mail,Morning,German
+13199,65,Male,Separated,High School Diploma,Artist,46133,In-Person,Email,Morning,French
+13208,25,Female,Divorced,Bachelor's Degree,Entrepreneur,147741,Chat,Phone,Morning,English
+13209,55,Female,Widowed,Doctorate,Engineer,48757,Phone,Mail,Morning,German
+13211,30,Male,Divorced,High School Diploma,Engineer,126336,In-Person,Email,Anytime,French
+13221,62,Female,Widowed,Associate Degree,Engineer,56730,Phone,In-Person Meeting,Morning,German
+13225,28,Female,Married,Doctorate,Artist,79372,Mobile App,Phone,Weekends,German
+13230,32,Female,Married,Associate Degree,Teacher,82355,Email,Phone,Anytime,French
+13233,45,Female,Divorced,High School Diploma,Doctor,81157,Chat,Mail,Evening,French
+13238,40,Female,Separated,Associate Degree,Manager,124259,Phone,Phone,Anytime,Spanish
+13240,61,Female,Widowed,Associate Degree,Artist,35393,Phone,Email,Morning,English
+13246,39,Male,Separated,Associate Degree,Engineer,56990,Email,Mail,Morning,German
+13253,20,Female,Separated,Doctorate,Entrepreneur,66736,Chat,Mail,Weekends,German
+13255,56,Male,Married,Associate Degree,Doctor,121335,Email,Phone,Morning,Mandarin
+13263,36,Female,Single,High School Diploma,Entrepreneur,31727,Chat,Mail,Weekends,German
+13266,66,Male,Divorced,High School Diploma,Manager,135353,Email,Email,Evening,German
+13267,66,Female,Single,Associate Degree,Doctor,108282,Mobile App,Mail,Morning,Spanish
+13269,23,Female,Widowed,Doctorate,Engineer,39033,Email,Text,Evening,Mandarin
+13270,55,Female,Married,Associate Degree,Salesperson,39894,Email,Phone,Afternoon,German
+13280,51,Male,Married,Doctorate,Doctor,122764,Email,Email,Afternoon,French
+13284,37,Female,Separated,Master's Degree,Lawyer,83728,Mobile App,In-Person Meeting,Weekends,French
+13295,36,Male,Divorced,Associate Degree,Doctor,106090,Mobile App,Email,Evening,French
+13304,61,Male,Single,Associate Degree,Salesperson,105989,Chat,Email,Morning,English
+13305,37,Male,Single,Doctorate,Doctor,141120,Mobile App,Phone,Morning,German
+13309,55,Female,Widowed,Bachelor's Degree,Entrepreneur,86535,Chat,Text,Weekends,Spanish
+13310,30,Female,Divorced,Doctorate,Lawyer,118549,Phone,Email,Weekends,Mandarin
+13313,56,Female,Divorced,Associate Degree,Entrepreneur,55316,Mobile App,Email,Evening,French
+13317,44,Female,Separated,Doctorate,Manager,25807,Email,Mail,Weekends,French
+13319,29,Female,Divorced,Associate Degree,Entrepreneur,145344,Email,Mail,Morning,French
+13324,39,Female,Divorced,Doctorate,Artist,51000,Mobile App,Email,Morning,French
+13327,57,Female,Separated,Bachelor's Degree,Salesperson,120883,Chat,Email,Morning,German
+13328,28,Female,Married,Master's Degree,Artist,34440,Email,Phone,Afternoon,German
+13329,53,Female,Single,Doctorate,Artist,77978,In-Person,Phone,Anytime,English
+13330,41,Female,Divorced,Doctorate,Manager,51088,Mobile App,Phone,Afternoon,German
+13368,29,Female,Married,Associate Degree,Engineer,107982,Mobile App,Phone,Afternoon,English
+13369,31,Male,Divorced,Master's Degree,Doctor,106458,Chat,Email,Weekends,Mandarin
+13370,19,Male,Widowed,Master's Degree,Teacher,135554,Chat,Text,Weekends,German
+13385,45,Male,Single,Associate Degree,Teacher,40946,In-Person,Text,Weekends,Mandarin
+13394,68,Female,Divorced,Associate Degree,Teacher,77268,In-Person,In-Person Meeting,Evening,Spanish
+13396,37,Female,Married,Master's Degree,Doctor,115177,Chat,Phone,Weekends,French
+13397,63,Male,Single,Doctorate,Doctor,33817,Email,Text,Morning,French
+13402,45,Male,Married,High School Diploma,Lawyer,120418,Chat,Email,Anytime,English
+13405,46,Male,Single,Bachelor's Degree,Salesperson,133748,Phone,In-Person Meeting,Evening,German
+13408,62,Male,Divorced,Bachelor's Degree,Lawyer,73889,In-Person,Email,Evening,Mandarin
+13418,70,Female,Divorced,Bachelor's Degree,Teacher,74086,Email,Email,Evening,Mandarin
+13426,36,Male,Divorced,Bachelor's Degree,Salesperson,59022,Mobile App,Text,Weekends,English
+13448,56,Female,Separated,High School Diploma,Doctor,117504,Chat,Email,Weekends,Mandarin
+13451,57,Female,Separated,Doctorate,Artist,95718,Chat,Mail,Weekends,French
+13455,42,Male,Divorced,Bachelor's Degree,Nurse,56890,Chat,Email,Anytime,French
+13458,48,Female,Widowed,High School Diploma,Engineer,97240,Phone,Text,Evening,Spanish
+13468,67,Male,Divorced,Associate Degree,Lawyer,66619,Chat,Mail,Evening,English
+13473,33,Female,Divorced,Doctorate,Engineer,140456,Email,Phone,Afternoon,English
+13481,38,Female,Divorced,Master's Degree,Teacher,64348,Email,In-Person Meeting,Morning,German
+13487,54,Female,Separated,Doctorate,Teacher,33883,Phone,Mail,Weekends,German
+13488,52,Male,Married,High School Diploma,Manager,114213,Chat,Text,Evening,German
+13491,33,Female,Divorced,High School Diploma,Lawyer,72368,Mobile App,Email,Morning,English
+13494,62,Male,Single,Master's Degree,Lawyer,91793,Mobile App,In-Person Meeting,Afternoon,Spanish
+13495,43,Female,Single,Doctorate,Doctor,49599,Chat,Email,Morning,English
+13496,69,Male,Widowed,Master's Degree,Salesperson,61498,In-Person,Phone,Weekends,English
+13497,68,Male,Married,High School Diploma,Manager,124685,Mobile App,Email,Afternoon,French
+13502,49,Female,Divorced,High School Diploma,Manager,127700,Chat,Text,Anytime,Spanish
+13506,54,Female,Single,High School Diploma,Engineer,50746,Mobile App,Email,Weekends,French
+13520,38,Male,Divorced,Associate Degree,Teacher,93452,Chat,In-Person Meeting,Morning,French
+13523,38,Male,Married,Master's Degree,Nurse,57138,Chat,Email,Morning,English
+13527,68,Male,Single,Bachelor's Degree,Artist,48290,Chat,Text,Weekends,German
+13531,25,Female,Divorced,Bachelor's Degree,Nurse,37840,Email,Email,Weekends,French
+13534,56,Female,Married,High School Diploma,Nurse,113160,Chat,Text,Anytime,Spanish
+13538,56,Male,Single,Master's Degree,Salesperson,69758,Chat,In-Person Meeting,Weekends,English
+13539,45,Female,Married,High School Diploma,Artist,124349,In-Person,Mail,Morning,French
+13551,29,Male,Divorced,Master's Degree,Artist,137189,Chat,Email,Weekends,Mandarin
+13552,47,Male,Married,Bachelor's Degree,Entrepreneur,146013,In-Person,Email,Anytime,Mandarin
+13564,25,Female,Married,Doctorate,Artist,34177,Mobile App,Mail,Evening,German
+13565,30,Male,Married,Master's Degree,Entrepreneur,115010,Chat,Mail,Afternoon,French
+13569,64,Female,Widowed,Associate Degree,Lawyer,23159,Mobile App,Email,Afternoon,English
+13576,68,Female,Married,High School Diploma,Manager,89518,Email,Mail,Morning,French
+13579,26,Female,Divorced,High School Diploma,Doctor,106586,Email,In-Person Meeting,Morning,Mandarin
+13581,38,Male,Married,Bachelor's Degree,Artist,144140,Phone,Mail,Morning,French
+13584,48,Male,Divorced,High School Diploma,Engineer,43061,Chat,Phone,Evening,Mandarin
+13593,56,Female,Widowed,Doctorate,Salesperson,146908,Chat,Text,Afternoon,French
+13599,36,Male,Widowed,Master's Degree,Lawyer,85793,Chat,Mail,Morning,English
+13600,69,Male,Single,Associate Degree,Manager,88312,Email,Phone,Anytime,English
+13606,44,Male,Divorced,Master's Degree,Salesperson,80705,Mobile App,Text,Weekends,German
+13611,28,Female,Married,Master's Degree,Doctor,54257,In-Person,In-Person Meeting,Afternoon,German
+13614,47,Male,Widowed,Master's Degree,Manager,47708,Chat,In-Person Meeting,Morning,Mandarin
+13615,62,Male,Married,High School Diploma,Doctor,105549,In-Person,Email,Weekends,Mandarin
+13627,69,Female,Separated,Doctorate,Engineer,49581,Phone,Email,Morning,French
+13629,40,Male,Married,Doctorate,Nurse,84231,Email,Phone,Anytime,English
+13634,61,Female,Single,Doctorate,Entrepreneur,90966,Mobile App,In-Person Meeting,Morning,Mandarin
+13649,26,Male,Single,Master's Degree,Lawyer,63805,Phone,Phone,Evening,German
+13652,64,Female,Married,High School Diploma,Salesperson,36276,Mobile App,Email,Morning,English
+13656,30,Female,Single,Doctorate,Engineer,145871,Mobile App,Email,Anytime,German
+13659,48,Female,Separated,High School Diploma,Entrepreneur,97615,Chat,Email,Afternoon,German
+13668,63,Male,Divorced,Associate Degree,Doctor,138182,Chat,Email,Morning,English
+13672,56,Male,Separated,Associate Degree,Nurse,145258,In-Person,Text,Anytime,French
+13680,54,Female,Separated,High School Diploma,Engineer,44435,Email,Email,Evening,Spanish
+13693,25,Male,Widowed,Bachelor's Degree,Lawyer,113822,Chat,In-Person Meeting,Morning,French
+13694,56,Female,Single,Master's Degree,Salesperson,90036,Mobile App,Text,Afternoon,Spanish
+13700,38,Female,Married,Doctorate,Artist,39032,Phone,Mail,Evening,Mandarin
+13703,70,Female,Divorced,Doctorate,Salesperson,86286,In-Person,Text,Morning,German
+13705,53,Male,Divorced,Associate Degree,Manager,49224,Chat,Mail,Evening,Mandarin
+13707,43,Male,Widowed,Associate Degree,Salesperson,114548,Email,In-Person Meeting,Anytime,English
+13709,38,Female,Widowed,Master's Degree,Doctor,122361,In-Person,Email,Evening,German
+13715,25,Male,Married,Doctorate,Teacher,28768,Email,Phone,Weekends,French
+13725,47,Male,Divorced,High School Diploma,Artist,110885,Email,Mail,Evening,French
+13728,70,Male,Married,Master's Degree,Salesperson,96711,Mobile App,Mail,Weekends,English
+13742,54,Female,Divorced,Doctorate,Entrepreneur,134597,Chat,Text,Weekends,English
+13747,62,Male,Divorced,Associate Degree,Entrepreneur,117264,Email,Text,Weekends,English
+13748,20,Male,Divorced,Bachelor's Degree,Entrepreneur,63381,Chat,Text,Anytime,French
+13750,38,Female,Divorced,Bachelor's Degree,Artist,127761,Chat,Email,Morning,English
+13754,63,Male,Single,Master's Degree,Manager,24962,Mobile App,Email,Evening,French
+13756,43,Male,Widowed,High School Diploma,Manager,42297,Mobile App,Mail,Weekends,German
+13758,25,Female,Married,Bachelor's Degree,Teacher,98964,Phone,Mail,Evening,German
+13764,63,Female,Single,High School Diploma,Salesperson,115366,Mobile App,Email,Evening,German
+13767,43,Male,Single,Associate Degree,Entrepreneur,51844,In-Person,Email,Evening,Spanish
+13769,65,Male,Divorced,Doctorate,Teacher,110072,Chat,Email,Evening,Spanish
+13777,64,Male,Married,Associate Degree,Doctor,67420,Chat,Text,Weekends,German
+13782,31,Female,Married,Associate Degree,Lawyer,133868,Email,Phone,Morning,French
+13784,23,Female,Married,High School Diploma,Artist,137118,Chat,In-Person Meeting,Weekends,French
+13786,54,Male,Single,Bachelor's Degree,Artist,36814,In-Person,In-Person Meeting,Morning,French
+13787,37,Male,Married,Bachelor's Degree,Lawyer,35763,In-Person,Text,Weekends,Spanish
+13798,39,Female,Widowed,Master's Degree,Entrepreneur,117281,Mobile App,Phone,Afternoon,German
+13800,69,Female,Widowed,High School Diploma,Lawyer,91423,Email,Phone,Weekends,Spanish
+13802,42,Male,Single,Bachelor's Degree,Manager,64527,Phone,Email,Morning,French
+13807,69,Male,Separated,Doctorate,Artist,114652,In-Person,Phone,Evening,Mandarin
+13815,29,Female,Divorced,Master's Degree,Teacher,90927,Chat,Text,Afternoon,English
+13817,26,Female,Separated,Associate Degree,Artist,116329,In-Person,In-Person Meeting,Anytime,Mandarin
+13819,55,Female,Separated,High School Diploma,Salesperson,116604,Mobile App,Phone,Morning,German
+13824,40,Male,Separated,Bachelor's Degree,Manager,43286,Email,In-Person Meeting,Evening,French
+13829,25,Male,Separated,Bachelor's Degree,Engineer,71501,Phone,Text,Anytime,Mandarin
+13831,64,Male,Widowed,Doctorate,Nurse,146071,Mobile App,In-Person Meeting,Anytime,Mandarin
+13837,25,Male,Separated,Master's Degree,Engineer,146879,Phone,Phone,Anytime,French
+13838,37,Female,Married,Associate Degree,Nurse,53126,Email,Mail,Morning,German
+13842,43,Female,Separated,Master's Degree,Teacher,56087,Mobile App,Mail,Evening,French
+13846,40,Male,Divorced,Associate Degree,Salesperson,52903,In-Person,Phone,Weekends,German
+13848,27,Male,Married,High School Diploma,Teacher,69443,Mobile App,In-Person Meeting,Morning,German
+13854,47,Male,Married,Doctorate,Nurse,70242,Phone,In-Person Meeting,Morning,Mandarin
+13859,64,Female,Separated,Associate Degree,Artist,115587,In-Person,Text,Afternoon,German
+13862,43,Female,Single,Associate Degree,Salesperson,71757,Chat,In-Person Meeting,Afternoon,English
+13869,33,Male,Single,Associate Degree,Salesperson,35209,Chat,Phone,Morning,German
+13871,46,Female,Married,High School Diploma,Salesperson,138385,Mobile App,Email,Afternoon,Mandarin
+13873,44,Male,Married,Associate Degree,Manager,39234,In-Person,Phone,Weekends,Mandarin
+13874,64,Female,Married,High School Diploma,Lawyer,104359,Chat,Text,Morning,French
+13880,28,Male,Single,Associate Degree,Salesperson,121562,Mobile App,Mail,Weekends,German
+13881,68,Male,Married,Bachelor's Degree,Doctor,69280,Mobile App,Mail,Weekends,German
+13883,68,Male,Single,Master's Degree,Lawyer,80598,Chat,Phone,Weekends,French
+13890,50,Male,Single,Associate Degree,Salesperson,133891,Email,Phone,Anytime,Spanish
+13894,52,Male,Single,High School Diploma,Teacher,58815,Chat,Mail,Weekends,French
+13898,23,Female,Single,Associate Degree,Entrepreneur,39678,Email,Email,Evening,German
+13901,39,Female,Widowed,Bachelor's Degree,Doctor,115885,Chat,Email,Afternoon,English
+13911,25,Female,Married,Doctorate,Doctor,116787,Email,Text,Weekends,French
+13922,24,Female,Widowed,Doctorate,Engineer,45810,Email,Phone,Morning,English
+13929,70,Male,Separated,Doctorate,Artist,109573,In-Person,Phone,Afternoon,French
+13939,68,Male,Married,Master's Degree,Lawyer,69779,Chat,Mail,Anytime,Spanish
+13941,55,Male,Divorced,Doctorate,Salesperson,136045,Mobile App,Email,Weekends,German
+13948,57,Male,Married,Bachelor's Degree,Teacher,69224,Phone,Email,Evening,Spanish
+13953,64,Female,Married,High School Diploma,Engineer,126541,Mobile App,Email,Weekends,Mandarin
+13958,69,Female,Divorced,Master's Degree,Doctor,141876,In-Person,Email,Weekends,German
+13959,69,Female,Married,Master's Degree,Salesperson,88245,Chat,Email,Anytime,Spanish
+13963,55,Female,Divorced,Master's Degree,Salesperson,26586,Mobile App,Text,Morning,French
+13969,64,Female,Widowed,Doctorate,Salesperson,53526,Phone,Mail,Weekends,French
+13982,46,Male,Separated,Master's Degree,Salesperson,121563,Chat,Mail,Weekends,Mandarin
+13983,31,Male,Married,High School Diploma,Manager,84115,Chat,In-Person Meeting,Evening,English
+13984,39,Male,Separated,Doctorate,Teacher,147408,In-Person,In-Person Meeting,Weekends,Spanish
+13993,61,Female,Separated,Bachelor's Degree,Lawyer,97543,Phone,Email,Weekends,Mandarin
+13999,56,Male,Widowed,Doctorate,Salesperson,71566,Mobile App,Text,Morning,German
+14001,65,Male,Divorced,Associate Degree,Salesperson,41328,Chat,Mail,Morning,English
+14006,67,Female,Separated,Master's Degree,Artist,37154,In-Person,Mail,Anytime,English
+14016,45,Male,Widowed,Doctorate,Doctor,47075,Chat,Mail,Weekends,English
+14030,32,Female,Married,Bachelor's Degree,Lawyer,67083,Phone,Text,Morning,Mandarin
+14031,29,Male,Widowed,Associate Degree,Lawyer,44219,Email,Email,Morning,Mandarin
+14032,54,Female,Married,Associate Degree,Doctor,43108,Mobile App,Email,Weekends,English
+14037,35,Female,Divorced,Associate Degree,Lawyer,113173,Phone,Text,Anytime,French
+14040,35,Female,Divorced,Doctorate,Salesperson,25763,In-Person,Text,Morning,German
+14044,52,Male,Married,High School Diploma,Entrepreneur,30646,Mobile App,Phone,Morning,English
+14045,63,Male,Single,Doctorate,Doctor,117967,Chat,Phone,Weekends,Mandarin
+14047,67,Female,Widowed,Associate Degree,Manager,51132,Chat,In-Person Meeting,Morning,French
+14049,55,Female,Divorced,Master's Degree,Entrepreneur,58859,In-Person,In-Person Meeting,Weekends,German
+14051,57,Female,Married,Master's Degree,Artist,101462,Mobile App,Text,Weekends,English
+14057,29,Female,Divorced,Doctorate,Entrepreneur,110175,Phone,Text,Anytime,English
+14060,46,Male,Single,High School Diploma,Lawyer,144780,Email,In-Person Meeting,Afternoon,English
+14062,50,Female,Divorced,Master's Degree,Lawyer,106968,Phone,In-Person Meeting,Morning,German
+14068,56,Male,Married,Master's Degree,Salesperson,140794,Phone,Email,Evening,German
+14078,48,Male,Single,High School Diploma,Salesperson,63683,Chat,Mail,Evening,Mandarin
+14081,43,Male,Married,Doctorate,Lawyer,38019,Email,Text,Weekends,Mandarin
+14082,70,Female,Single,High School Diploma,Lawyer,35644,Chat,Mail,Anytime,German
+14083,45,Female,Married,Doctorate,Teacher,65240,Email,Email,Afternoon,French
+14085,38,Female,Separated,Doctorate,Engineer,36507,Email,Text,Morning,German
+14088,31,Female,Single,Master's Degree,Doctor,40499,Email,Email,Weekends,French
+14090,48,Female,Divorced,Doctorate,Doctor,66954,Email,Phone,Evening,Spanish
+14092,38,Male,Separated,Bachelor's Degree,Entrepreneur,145982,Mobile App,Email,Morning,French
+14099,19,Male,Divorced,Bachelor's Degree,Lawyer,67431,Email,Mail,Afternoon,French
+14101,36,Female,Married,High School Diploma,Lawyer,134310,Mobile App,Phone,Anytime,German
+14107,35,Female,Married,Associate Degree,Manager,137948,In-Person,Phone,Weekends,German
+14113,21,Female,Married,Doctorate,Salesperson,107854,Phone,Mail,Weekends,English
+14114,67,Female,Widowed,High School Diploma,Teacher,70945,Mobile App,Mail,Anytime,German
+14119,60,Male,Divorced,Bachelor's Degree,Nurse,55219,Chat,In-Person Meeting,Anytime,German
+14127,64,Female,Single,Doctorate,Salesperson,145289,Mobile App,Phone,Weekends,French
+14130,28,Female,Divorced,Bachelor's Degree,Doctor,65331,Mobile App,Phone,Weekends,Spanish
+14133,45,Female,Widowed,High School Diploma,Lawyer,49929,Email,Text,Anytime,French
+14135,61,Male,Widowed,Associate Degree,Entrepreneur,146046,Chat,Mail,Morning,German
+14142,24,Female,Married,High School Diploma,Artist,54523,Chat,Email,Evening,Spanish
+14146,43,Male,Separated,Bachelor's Degree,Teacher,72704,Chat,Text,Afternoon,French
+14150,45,Male,Divorced,Bachelor's Degree,Salesperson,63765,Chat,Mail,Morning,German
+14156,31,Female,Divorced,Doctorate,Doctor,41852,Chat,Mail,Weekends,French
+14159,39,Female,Widowed,Master's Degree,Engineer,91909,Chat,Mail,Morning,German
+14161,49,Female,Married,Doctorate,Salesperson,91200,Mobile App,Text,Morning,German
+14167,69,Male,Married,Master's Degree,Doctor,69349,Chat,Mail,Afternoon,Mandarin
+14175,57,Female,Divorced,Associate Degree,Nurse,145267,In-Person,In-Person Meeting,Evening,German
+14176,62,Male,Single,High School Diploma,Doctor,131846,Chat,Text,Weekends,Mandarin
+14180,19,Female,Divorced,High School Diploma,Entrepreneur,114458,Email,Text,Weekends,French
+14185,44,Male,Divorced,High School Diploma,Entrepreneur,37458,Chat,Mail,Weekends,French
+14188,56,Male,Married,Master's Degree,Engineer,50764,In-Person,In-Person Meeting,Weekends,German
+14189,49,Male,Separated,Associate Degree,Engineer,31287,Phone,Email,Afternoon,German
+14194,51,Male,Single,High School Diploma,Lawyer,43796,Mobile App,Phone,Morning,English
+14201,36,Female,Married,Master's Degree,Engineer,129572,Phone,Email,Morning,English
+14205,36,Female,Single,Associate Degree,Artist,127857,Chat,Phone,Afternoon,Mandarin
+14206,69,Female,Divorced,Master's Degree,Nurse,76092,Phone,Email,Anytime,French
+14209,26,Male,Widowed,Associate Degree,Artist,146005,Mobile App,Email,Morning,German
+14210,47,Female,Separated,High School Diploma,Manager,110554,Chat,Text,Afternoon,German
+14213,58,Male,Separated,Bachelor's Degree,Manager,95089,In-Person,In-Person Meeting,Morning,Mandarin
+14215,47,Male,Widowed,Bachelor's Degree,Artist,37265,In-Person,In-Person Meeting,Morning,Spanish
+14217,42,Male,Widowed,Bachelor's Degree,Artist,69735,In-Person,Text,Morning,French
+14220,53,Male,Separated,High School Diploma,Artist,100939,Chat,Phone,Anytime,German
+14221,40,Male,Single,Associate Degree,Lawyer,106460,Phone,Text,Morning,French
+14224,61,Male,Single,Bachelor's Degree,Manager,101732,Email,In-Person Meeting,Morning,Mandarin
+14229,70,Male,Divorced,Associate Degree,Entrepreneur,45484,Chat,Mail,Morning,Spanish
+14233,37,Female,Divorced,Associate Degree,Nurse,53296,Mobile App,Email,Anytime,German
+14236,52,Female,Single,High School Diploma,Entrepreneur,87341,Mobile App,Email,Weekends,English
+14237,32,Male,Divorced,Associate Degree,Lawyer,35126,Phone,Text,Weekends,Mandarin
+14238,39,Male,Widowed,Bachelor's Degree,Doctor,37667,Mobile App,Email,Anytime,French
+14239,46,Male,Widowed,Bachelor's Degree,Doctor,101185,Email,In-Person Meeting,Morning,German
+14242,26,Female,Separated,High School Diploma,Engineer,119321,Email,Phone,Weekends,German
+14243,35,Male,Separated,Doctorate,Teacher,30312,Mobile App,Mail,Evening,Mandarin
+14248,50,Male,Divorced,Associate Degree,Manager,118624,Chat,In-Person Meeting,Weekends,French
+14256,68,Male,Divorced,Associate Degree,Engineer,123127,Phone,Text,Weekends,English
+14257,47,Male,Married,Bachelor's Degree,Entrepreneur,40095,Chat,Email,Weekends,Mandarin
+14258,26,Female,Single,Doctorate,Nurse,74010,Chat,In-Person Meeting,Morning,German
+14264,44,Male,Separated,High School Diploma,Lawyer,57451,In-Person,Phone,Weekends,French
+14270,46,Male,Divorced,Associate Degree,Nurse,55206,Email,Phone,Morning,Mandarin
+14282,30,Male,Married,High School Diploma,Manager,81101,Chat,Email,Evening,Spanish
+14290,24,Female,Married,Master's Degree,Salesperson,55117,Mobile App,Mail,Afternoon,German
+14292,50,Female,Married,Bachelor's Degree,Teacher,26697,Phone,Text,Weekends,Mandarin
+14293,43,Female,Widowed,Doctorate,Manager,70574,Email,Mail,Weekends,Mandarin
+14295,50,Male,Divorced,Master's Degree,Salesperson,57510,Email,In-Person Meeting,Evening,English
+14298,61,Male,Widowed,Associate Degree,Entrepreneur,123588,Mobile App,Mail,Afternoon,Spanish
+14299,27,Male,Separated,Master's Degree,Nurse,27476,Chat,Mail,Afternoon,German
+14307,63,Female,Divorced,High School Diploma,Entrepreneur,47896,Email,Text,Morning,German
+14309,23,Male,Married,Bachelor's Degree,Artist,35815,In-Person,Email,Evening,Spanish
+14312,32,Male,Separated,Bachelor's Degree,Lawyer,92855,In-Person,Text,Morning,German
+14320,68,Male,Married,High School Diploma,Artist,84481,In-Person,Text,Weekends,Spanish
+14321,31,Male,Married,Doctorate,Engineer,22893,Chat,Mail,Evening,Spanish
+14329,37,Female,Married,Associate Degree,Manager,65139,Chat,Mail,Morning,Spanish
+14334,44,Female,Married,Associate Degree,Teacher,88540,Phone,Text,Morning,French
+14341,44,Female,Divorced,Doctorate,Artist,46406,Phone,Phone,Weekends,Mandarin
+14344,31,Female,Widowed,High School Diploma,Teacher,82567,Email,Mail,Anytime,Spanish
+14355,23,Female,Divorced,High School Diploma,Engineer,81039,Mobile App,Text,Afternoon,Mandarin
+14368,68,Male,Widowed,Doctorate,Nurse,68484,Chat,Text,Evening,Mandarin
+14373,28,Female,Single,Doctorate,Entrepreneur,61953,Chat,Mail,Morning,English
+14388,67,Male,Married,Doctorate,Salesperson,68624,In-Person,Text,Morning,Spanish
+14389,61,Female,Married,High School Diploma,Salesperson,117109,Mobile App,Email,Weekends,French
+14390,41,Female,Single,Doctorate,Lawyer,49791,Chat,Email,Weekends,German
+14395,62,Male,Separated,Associate Degree,Lawyer,24192,Mobile App,Mail,Weekends,English
+14396,34,Female,Married,Bachelor's Degree,Salesperson,142791,Mobile App,Text,Morning,German
+14401,48,Female,Divorced,Doctorate,Entrepreneur,119523,In-Person,Email,Afternoon,Mandarin
+14404,41,Female,Widowed,High School Diploma,Entrepreneur,77145,Mobile App,In-Person Meeting,Afternoon,Spanish
+14409,37,Male,Divorced,Doctorate,Teacher,149309,Phone,Text,Anytime,English
+14410,45,Female,Separated,Master's Degree,Salesperson,145144,Email,In-Person Meeting,Evening,German
+14411,23,Male,Divorced,Associate Degree,Salesperson,115030,Phone,In-Person Meeting,Morning,Mandarin
+14413,37,Male,Married,Master's Degree,Artist,122754,Email,Phone,Morning,Mandarin
+14414,31,Male,Widowed,Master's Degree,Lawyer,33993,Mobile App,Text,Morning,Spanish
+14415,52,Male,Divorced,High School Diploma,Lawyer,131206,In-Person,In-Person Meeting,Afternoon,German
+14419,36,Male,Widowed,Master's Degree,Artist,109248,Chat,Phone,Weekends,Mandarin
+14426,37,Male,Single,High School Diploma,Entrepreneur,33752,Chat,Mail,Morning,French
+14428,62,Male,Divorced,Doctorate,Artist,91488,In-Person,Mail,Anytime,French
+14437,26,Male,Separated,Associate Degree,Lawyer,27853,Mobile App,Mail,Morning,Mandarin
+14438,29,Male,Divorced,Bachelor's Degree,Teacher,127502,Email,Phone,Weekends,French
+14439,33,Male,Single,Doctorate,Lawyer,144659,Chat,Phone,Anytime,Spanish
+14440,27,Male,Married,Associate Degree,Manager,63472,Chat,Email,Weekends,German
+14441,20,Female,Single,High School Diploma,Manager,51422,Chat,Email,Evening,French
+14442,32,Female,Married,High School Diploma,Engineer,144815,Chat,Text,Morning,Spanish
+14443,47,Male,Single,Doctorate,Salesperson,86918,In-Person,Email,Weekends,Mandarin
+14448,25,Female,Divorced,Associate Degree,Manager,33125,Email,Text,Weekends,Spanish
+14449,68,Male,Divorced,Associate Degree,Salesperson,33823,Mobile App,Text,Evening,French
+14450,58,Female,Divorced,Bachelor's Degree,Doctor,121029,Phone,Phone,Evening,German
+14457,41,Male,Single,Associate Degree,Lawyer,25847,Chat,Mail,Anytime,French
+14460,37,Male,Separated,Associate Degree,Salesperson,71647,In-Person,Text,Weekends,French
+14462,69,Male,Married,Doctorate,Lawyer,36153,In-Person,Text,Weekends,English
+14466,47,Male,Widowed,Associate Degree,Nurse,70482,Chat,Phone,Evening,French
+14467,33,Male,Divorced,Master's Degree,Manager,128111,Chat,Email,Anytime,German
+14472,68,Male,Divorced,Associate Degree,Salesperson,88357,Chat,In-Person Meeting,Evening,German
+14479,43,Female,Widowed,Doctorate,Lawyer,25612,In-Person,Text,Afternoon,English
+14487,48,Male,Divorced,High School Diploma,Engineer,110555,Phone,Text,Afternoon,Mandarin
+14491,55,Female,Divorced,Associate Degree,Entrepreneur,89231,In-Person,Text,Morning,Spanish
+14496,44,Female,Married,High School Diploma,Doctor,116476,Mobile App,In-Person Meeting,Morning,English
+14497,57,Female,Separated,Associate Degree,Doctor,24634,Email,Phone,Morning,Spanish
+14498,70,Male,Single,High School Diploma,Salesperson,108353,Chat,Text,Anytime,English
+14501,22,Male,Single,Bachelor's Degree,Artist,52691,Phone,Text,Weekends,Spanish
+14502,61,Female,Married,Bachelor's Degree,Doctor,27616,In-Person,Text,Anytime,French
+14505,38,Female,Married,Associate Degree,Teacher,142641,Chat,Text,Morning,German
+14506,47,Male,Divorced,High School Diploma,Doctor,72894,Mobile App,In-Person Meeting,Evening,Spanish
+14514,40,Male,Married,High School Diploma,Nurse,47408,Email,Text,Morning,English
+14524,34,Female,Divorced,Bachelor's Degree,Salesperson,120772,Email,Mail,Morning,German
+14525,54,Male,Divorced,Bachelor's Degree,Manager,83751,Chat,Mail,Weekends,French
+14527,32,Female,Single,Master's Degree,Artist,49083,Phone,Phone,Weekends,English
+14532,20,Female,Widowed,Doctorate,Nurse,97030,Chat,Phone,Weekends,Mandarin
+14533,33,Male,Married,Master's Degree,Manager,32062,Chat,In-Person Meeting,Morning,French
+14534,42,Male,Married,Doctorate,Artist,120140,Chat,Text,Weekends,German
+14540,42,Female,Divorced,Master's Degree,Salesperson,132894,In-Person,Phone,Evening,English
+14541,26,Female,Divorced,Bachelor's Degree,Engineer,35520,Chat,Email,Evening,Mandarin
+14543,36,Male,Married,Master's Degree,Salesperson,89028,Mobile App,Phone,Anytime,Spanish
+14544,21,Female,Single,Doctorate,Salesperson,136941,Mobile App,Text,Morning,French
+14548,27,Female,Single,Associate Degree,Artist,44576,Mobile App,Text,Anytime,French
+14549,40,Female,Married,Master's Degree,Teacher,81627,Mobile App,Phone,Morning,Spanish
+14553,20,Female,Single,Associate Degree,Doctor,137932,In-Person,Email,Weekends,Spanish
+14560,52,Female,Married,Bachelor's Degree,Doctor,131898,Email,In-Person Meeting,Evening,German
+14565,55,Male,Separated,Doctorate,Lawyer,106320,Email,Phone,Morning,French
+14572,64,Male,Divorced,Doctorate,Artist,147866,In-Person,Mail,Morning,French
+14573,64,Male,Divorced,Master's Degree,Entrepreneur,110838,In-Person,In-Person Meeting,Morning,English
+14576,31,Female,Separated,High School Diploma,Salesperson,145961,Phone,Text,Anytime,Mandarin
+14577,55,Male,Single,High School Diploma,Salesperson,35484,Chat,Email,Evening,French
+14587,65,Female,Widowed,Doctorate,Artist,68860,Phone,Mail,Morning,English
+14589,39,Female,Married,Bachelor's Degree,Nurse,143803,Email,Email,Afternoon,Spanish
+14594,45,Male,Divorced,Doctorate,Nurse,99954,Chat,Mail,Weekends,German
+14595,46,Female,Married,Bachelor's Degree,Artist,145615,Phone,Email,Afternoon,French
+14600,57,Female,Single,High School Diploma,Salesperson,68739,Mobile App,In-Person Meeting,Morning,Spanish
+14606,53,Female,Married,High School Diploma,Salesperson,58401,Phone,Text,Weekends,French
+14608,68,Male,Separated,Master's Degree,Teacher,144064,Phone,In-Person Meeting,Evening,Mandarin
+14616,26,Male,Married,High School Diploma,Artist,34478,Email,Text,Morning,German
+14618,42,Male,Widowed,Associate Degree,Doctor,124668,Chat,Phone,Evening,French
+14621,29,Female,Widowed,High School Diploma,Nurse,86026,Phone,Email,Weekends,English
+14625,64,Female,Widowed,High School Diploma,Salesperson,95543,Email,Mail,Morning,English
+14627,61,Male,Widowed,High School Diploma,Engineer,137556,Mobile App,In-Person Meeting,Weekends,Spanish
+14639,68,Male,Married,Bachelor's Degree,Artist,39922,Chat,Text,Weekends,English
+14643,26,Male,Separated,High School Diploma,Salesperson,77009,In-Person,Text,Morning,Mandarin
+14646,19,Male,Married,Bachelor's Degree,Teacher,68296,Phone,Mail,Anytime,Mandarin
+14653,25,Male,Widowed,Master's Degree,Teacher,66749,Phone,Email,Evening,English
+14657,70,Male,Single,Master's Degree,Manager,99451,Mobile App,Text,Weekends,Spanish
+14659,44,Female,Widowed,High School Diploma,Salesperson,107744,Mobile App,Phone,Weekends,Mandarin
+14662,49,Female,Widowed,Bachelor's Degree,Engineer,56743,Email,Mail,Morning,Spanish
+14665,25,Male,Married,Associate Degree,Manager,133615,Chat,Email,Weekends,French
+14667,68,Male,Separated,High School Diploma,Salesperson,37015,Mobile App,Phone,Weekends,Spanish
+14669,25,Female,Widowed,High School Diploma,Salesperson,26882,Mobile App,Email,Evening,Spanish
+14672,57,Male,Single,Bachelor's Degree,Lawyer,121279,Chat,In-Person Meeting,Morning,English
+14673,35,Female,Divorced,Doctorate,Manager,61488,Phone,In-Person Meeting,Weekends,English
+14679,46,Male,Single,Bachelor's Degree,Salesperson,69439,Chat,Mail,Morning,German
+14680,37,Female,Separated,Master's Degree,Engineer,80237,Phone,Mail,Evening,German
+14684,47,Male,Single,Master's Degree,Nurse,96933,Mobile App,Mail,Weekends,French
+14688,55,Male,Single,Bachelor's Degree,Manager,94891,Chat,In-Person Meeting,Weekends,Mandarin
+14692,24,Male,Separated,High School Diploma,Doctor,24970,Chat,Mail,Anytime,French
+14696,44,Female,Married,Associate Degree,Artist,32884,Phone,In-Person Meeting,Weekends,English
+14701,26,Female,Married,Doctorate,Entrepreneur,35819,Chat,Phone,Afternoon,German
+14702,57,Male,Divorced,Associate Degree,Entrepreneur,23719,Email,Text,Evening,Mandarin
+14708,28,Female,Divorced,High School Diploma,Salesperson,90012,Chat,Phone,Evening,German
+14709,37,Male,Married,Bachelor's Degree,Salesperson,113068,Chat,Mail,Weekends,English
+14713,28,Male,Divorced,Associate Degree,Salesperson,34056,In-Person,Mail,Morning,French
+14715,37,Female,Married,Master's Degree,Lawyer,69872,Chat,Text,Weekends,French
+14723,23,Male,Married,Bachelor's Degree,Teacher,66297,Phone,Text,Weekends,German
+14729,54,Male,Separated,Doctorate,Engineer,72860,Mobile App,Text,Anytime,English
+14732,38,Male,Single,Associate Degree,Engineer,98977,Chat,Mail,Anytime,English
+14733,56,Female,Widowed,Bachelor's Degree,Nurse,22318,Chat,Phone,Weekends,English
+14735,32,Female,Separated,Associate Degree,Artist,134582,Phone,Text,Evening,Mandarin
+14737,64,Female,Married,Doctorate,Entrepreneur,89550,Mobile App,Mail,Morning,German
+14738,64,Female,Separated,Bachelor's Degree,Engineer,25947,In-Person,Email,Afternoon,Mandarin
+14739,43,Male,Single,Bachelor's Degree,Engineer,82280,Chat,Phone,Anytime,Mandarin
+14741,67,Male,Separated,Associate Degree,Artist,86795,Mobile App,Mail,Anytime,English
+14744,26,Female,Single,Doctorate,Doctor,118337,Chat,Text,Weekends,French
+14748,52,Male,Married,Master's Degree,Nurse,68973,Mobile App,Phone,Weekends,English
+14755,41,Female,Divorced,Doctorate,Teacher,143563,Mobile App,Phone,Weekends,German
+14761,67,Female,Divorced,Bachelor's Degree,Engineer,109172,Mobile App,Text,Morning,German
+14766,37,Female,Single,Master's Degree,Doctor,100557,Phone,Text,Weekends,English
+14769,59,Female,Widowed,Doctorate,Teacher,100592,Mobile App,Email,Afternoon,French
+14770,56,Female,Separated,Doctorate,Nurse,114576,Chat,Mail,Evening,French
+14775,54,Male,Separated,Master's Degree,Entrepreneur,132161,Mobile App,Text,Anytime,German
+14776,23,Male,Separated,Master's Degree,Entrepreneur,25221,In-Person,Text,Afternoon,French
+14777,48,Female,Divorced,Master's Degree,Teacher,84434,Chat,In-Person Meeting,Anytime,French
+14778,19,Male,Widowed,Associate Degree,Artist,96261,Phone,Text,Evening,English
+14779,63,Female,Divorced,High School Diploma,Doctor,106644,Email,Email,Morning,English
+14782,31,Female,Married,High School Diploma,Engineer,84015,Chat,Email,Morning,Spanish
+14784,67,Male,Widowed,Associate Degree,Teacher,35905,Mobile App,Mail,Weekends,French
+14794,69,Male,Widowed,High School Diploma,Teacher,119484,In-Person,In-Person Meeting,Anytime,English
+14796,70,Male,Divorced,Doctorate,Doctor,132004,Chat,In-Person Meeting,Morning,French
+14798,33,Female,Widowed,Doctorate,Entrepreneur,34095,Phone,In-Person Meeting,Evening,German
+14800,67,Female,Married,Doctorate,Teacher,135887,Phone,Mail,Weekends,Spanish
+14805,69,Male,Married,Master's Degree,Nurse,65776,Email,Phone,Weekends,Spanish
+14810,50,Male,Divorced,Bachelor's Degree,Manager,107935,Email,Phone,Afternoon,English
+14813,53,Male,Widowed,High School Diploma,Doctor,137008,Chat,Email,Weekends,Mandarin
+14821,69,Male,Married,Master's Degree,Entrepreneur,146807,Mobile App,Mail,Anytime,German
+14825,64,Female,Single,Bachelor's Degree,Lawyer,74607,Email,In-Person Meeting,Weekends,Mandarin
+14828,38,Female,Single,High School Diploma,Salesperson,54931,Mobile App,Text,Weekends,German
+14829,55,Male,Separated,Associate Degree,Engineer,127517,Mobile App,Email,Morning,French
+14841,48,Male,Married,Master's Degree,Entrepreneur,90655,Chat,In-Person Meeting,Morning,Mandarin
+14842,49,Female,Divorced,High School Diploma,Manager,120061,Mobile App,Email,Weekends,Spanish
+14849,38,Female,Widowed,High School Diploma,Lawyer,73907,In-Person,Email,Anytime,French
+14850,55,Male,Married,High School Diploma,Doctor,82034,Phone,Mail,Morning,English
+14865,24,Male,Single,High School Diploma,Salesperson,31483,Mobile App,Phone,Afternoon,German
+14866,23,Female,Widowed,Associate Degree,Nurse,27400,Phone,Phone,Anytime,English
+14867,37,Male,Widowed,High School Diploma,Engineer,45386,Chat,Phone,Afternoon,Spanish
+14871,65,Male,Divorced,Doctorate,Nurse,93009,In-Person,Email,Afternoon,German
+14878,52,Male,Divorced,Bachelor's Degree,Artist,145680,Email,Phone,Morning,Mandarin
+14889,32,Female,Married,Master's Degree,Entrepreneur,34684,Mobile App,Text,Evening,French
+14895,37,Female,Divorced,High School Diploma,Entrepreneur,72749,Chat,Mail,Morning,English
+14896,31,Male,Divorced,Associate Degree,Artist,104402,Mobile App,Text,Afternoon,German
+14898,56,Male,Widowed,Associate Degree,Artist,32167,Mobile App,Phone,Evening,Mandarin
+14901,20,Female,Widowed,Bachelor's Degree,Artist,116008,Phone,Text,Evening,French
+14907,37,Female,Married,Associate Degree,Nurse,100688,Phone,Text,Afternoon,Mandarin
+14911,69,Female,Married,Bachelor's Degree,Entrepreneur,121869,Mobile App,Phone,Weekends,Spanish
+14913,62,Male,Single,Master's Degree,Lawyer,89142,Mobile App,Email,Evening,English
+14916,49,Female,Single,High School Diploma,Salesperson,26603,In-Person,In-Person Meeting,Weekends,Spanish
+14932,26,Female,Divorced,Doctorate,Manager,53270,In-Person,Mail,Morning,English
+14944,56,Female,Single,High School Diploma,Engineer,56131,Chat,Email,Weekends,English
+14952,37,Male,Separated,Doctorate,Salesperson,127172,In-Person,Mail,Afternoon,English
+14961,28,Female,Single,Doctorate,Salesperson,23455,Chat,Text,Morning,German
+14970,38,Male,Married,Master's Degree,Teacher,25701,Chat,In-Person Meeting,Evening,German
+14976,65,Female,Married,Master's Degree,Salesperson,26403,Email,Text,Weekends,English
+14978,20,Male,Separated,Bachelor's Degree,Doctor,32506,Phone,In-Person Meeting,Anytime,German
+14985,54,Female,Widowed,Master's Degree,Salesperson,147171,Mobile App,Text,Anytime,German
+14987,56,Female,Separated,High School Diploma,Entrepreneur,70151,Mobile App,Text,Afternoon,German
+15002,68,Male,Divorced,Doctorate,Salesperson,123578,Mobile App,In-Person Meeting,Weekends,French
+15005,52,Male,Widowed,Doctorate,Entrepreneur,125497,In-Person,Phone,Morning,German
+15012,26,Male,Separated,Master's Degree,Lawyer,116983,Mobile App,Text,Anytime,Spanish
+15018,55,Female,Divorced,Master's Degree,Teacher,146698,Mobile App,Text,Weekends,French
+15021,38,Female,Single,Doctorate,Engineer,25889,Chat,Text,Morning,German
+15023,43,Male,Married,Doctorate,Nurse,80176,Chat,Mail,Morning,English
+15024,70,Female,Separated,Doctorate,Nurse,67252,Mobile App,In-Person Meeting,Morning,Spanish
+15028,36,Male,Separated,High School Diploma,Manager,38304,In-Person,Mail,Anytime,Spanish
+15032,37,Male,Separated,Associate Degree,Nurse,145073,Chat,Email,Afternoon,Spanish
+15033,25,Female,Widowed,Master's Degree,Artist,127092,In-Person,Phone,Weekends,German
+15034,20,Female,Divorced,Associate Degree,Entrepreneur,86764,In-Person,Mail,Morning,German
+15038,64,Female,Widowed,Associate Degree,Entrepreneur,28753,In-Person,Mail,Weekends,French
+15039,31,Female,Separated,Associate Degree,Teacher,34229,In-Person,Email,Morning,French
+15044,41,Female,Widowed,High School Diploma,Engineer,41375,Mobile App,In-Person Meeting,Anytime,German
+15046,69,Female,Single,Master's Degree,Teacher,69693,Email,Mail,Weekends,German
+15048,69,Male,Separated,High School Diploma,Artist,78474,Phone,In-Person Meeting,Afternoon,Mandarin
+15052,39,Male,Divorced,Master's Degree,Manager,115880,Phone,Mail,Weekends,Spanish
+15057,37,Male,Divorced,Bachelor's Degree,Doctor,121458,Chat,In-Person Meeting,Weekends,English
+15058,37,Female,Widowed,High School Diploma,Teacher,91211,Email,Phone,Morning,Spanish
+15059,69,Female,Divorced,High School Diploma,Teacher,92408,Email,Text,Morning,English
+15061,37,Female,Widowed,Master's Degree,Lawyer,68999,In-Person,Phone,Afternoon,Mandarin
+15062,40,Female,Divorced,Doctorate,Manager,22982,In-Person,In-Person Meeting,Evening,Spanish
+15070,51,Male,Widowed,High School Diploma,Entrepreneur,77719,Chat,In-Person Meeting,Weekends,German
+15078,63,Female,Married,Doctorate,Lawyer,34415,Mobile App,Text,Morning,French
+15079,66,Female,Divorced,Associate Degree,Teacher,107759,Mobile App,Email,Anytime,German
+15081,25,Male,Widowed,Master's Degree,Entrepreneur,103927,Phone,Text,Afternoon,English
+15090,25,Female,Widowed,High School Diploma,Teacher,56307,Phone,Mail,Weekends,Spanish
+15093,23,Female,Single,High School Diploma,Manager,43821,Mobile App,Phone,Weekends,Spanish
+15100,25,Female,Separated,Bachelor's Degree,Manager,38794,Chat,Email,Weekends,English
+15101,61,Female,Divorced,High School Diploma,Engineer,37695,Chat,Phone,Afternoon,German
+15107,31,Male,Married,Bachelor's Degree,Doctor,144559,Phone,Text,Morning,Spanish
+15110,31,Male,Divorced,Associate Degree,Lawyer,67717,Phone,Text,Morning,Mandarin
+15111,33,Male,Married,Associate Degree,Lawyer,74841,Email,Email,Anytime,French
+15139,49,Female,Widowed,Associate Degree,Teacher,39344,Email,Mail,Evening,German
+15144,50,Male,Single,High School Diploma,Nurse,115096,Chat,Text,Afternoon,German
+15157,53,Male,Married,Bachelor's Degree,Teacher,24126,Chat,Mail,Evening,English
+15159,37,Male,Married,Master's Degree,Manager,117561,Mobile App,Mail,Morning,Mandarin
+15160,63,Male,Divorced,Bachelor's Degree,Manager,57728,Chat,Text,Morning,Mandarin
+15164,61,Female,Single,Bachelor's Degree,Artist,149099,Phone,Email,Anytime,Mandarin
+15165,42,Female,Divorced,High School Diploma,Engineer,71646,Phone,Email,Afternoon,Spanish
+15167,62,Female,Divorced,Bachelor's Degree,Artist,32353,Chat,In-Person Meeting,Morning,English
+15171,34,Male,Married,Bachelor's Degree,Doctor,73638,Mobile App,Phone,Anytime,French
+15174,24,Female,Separated,High School Diploma,Salesperson,38404,Chat,Text,Anytime,German
+15179,40,Female,Divorced,Associate Degree,Engineer,120134,Chat,Text,Anytime,French
+15180,20,Female,Single,Associate Degree,Entrepreneur,131366,Chat,Email,Evening,German
+15181,55,Male,Widowed,Master's Degree,Entrepreneur,63098,Mobile App,Phone,Evening,Spanish
+15189,44,Male,Divorced,Doctorate,Salesperson,70129,Chat,Mail,Weekends,German
+15192,20,Female,Married,High School Diploma,Teacher,31894,Email,Mail,Morning,Mandarin
+15194,18,Male,Separated,High School Diploma,Manager,144872,Email,In-Person Meeting,Afternoon,German
+15197,29,Female,Divorced,Associate Degree,Engineer,119581,In-Person,Email,Weekends,French
+15199,37,Female,Married,Associate Degree,Doctor,138152,Chat,In-Person Meeting,Morning,French
+15203,42,Female,Separated,Associate Degree,Teacher,123661,Phone,Email,Anytime,English
+15204,67,Female,Married,Bachelor's Degree,Doctor,52618,Email,Email,Anytime,French
+15208,47,Male,Single,Associate Degree,Doctor,75756,Email,In-Person Meeting,Morning,English
+15211,42,Male,Married,High School Diploma,Teacher,135362,Chat,In-Person Meeting,Afternoon,Spanish
+15213,23,Female,Single,High School Diploma,Lawyer,24322,Chat,Email,Anytime,German
+15215,39,Male,Widowed,Doctorate,Entrepreneur,70853,In-Person,In-Person Meeting,Afternoon,Mandarin
+15218,57,Female,Divorced,Associate Degree,Entrepreneur,24620,Chat,Phone,Morning,Mandarin
+15221,48,Female,Widowed,High School Diploma,Lawyer,85507,In-Person,Email,Weekends,German
+15222,44,Male,Separated,Bachelor's Degree,Salesperson,69618,Email,In-Person Meeting,Morning,French
+15224,61,Male,Separated,High School Diploma,Entrepreneur,83360,Phone,Email,Anytime,Mandarin
+15226,19,Male,Widowed,Doctorate,Entrepreneur,106679,Mobile App,Phone,Morning,German
+15227,58,Male,Single,Master's Degree,Lawyer,49334,Chat,In-Person Meeting,Evening,German
+15235,57,Male,Divorced,High School Diploma,Salesperson,125867,In-Person,In-Person Meeting,Weekends,Mandarin
+15240,19,Female,Single,Doctorate,Lawyer,112475,Mobile App,Phone,Morning,German
+15246,54,Male,Single,Doctorate,Entrepreneur,111763,Mobile App,In-Person Meeting,Weekends,French
+15260,26,Female,Married,Master's Degree,Artist,144154,Phone,In-Person Meeting,Morning,German
+15262,34,Female,Divorced,Associate Degree,Teacher,48731,Chat,Text,Evening,Spanish
+15266,25,Female,Divorced,Associate Degree,Lawyer,142368,Phone,Mail,Evening,English
+15270,44,Female,Widowed,Doctorate,Manager,91705,Mobile App,Email,Morning,French
+15271,69,Female,Separated,Associate Degree,Doctor,53850,Email,Email,Evening,English
+15279,67,Male,Single,Associate Degree,Doctor,78575,Phone,Mail,Evening,English
+15281,65,Male,Widowed,Doctorate,Artist,83428,Phone,Email,Anytime,French
+15288,68,Female,Separated,Doctorate,Salesperson,54747,In-Person,Mail,Afternoon,Spanish
+15290,33,Male,Divorced,High School Diploma,Teacher,44589,Email,Email,Morning,Spanish
+15291,41,Female,Separated,Master's Degree,Nurse,87188,Chat,Text,Afternoon,English
+15296,37,Female,Single,Master's Degree,Artist,118036,Chat,Phone,Weekends,Spanish
+15298,62,Male,Separated,Associate Degree,Entrepreneur,39485,Mobile App,Text,Evening,French
+15299,26,Female,Single,Doctorate,Entrepreneur,108425,Phone,Mail,Morning,English
+15301,22,Female,Widowed,High School Diploma,Engineer,49498,Chat,Phone,Evening,French
+15304,31,Male,Divorced,Associate Degree,Engineer,106587,In-Person,Email,Evening,French
+15311,43,Female,Single,Doctorate,Salesperson,116249,Mobile App,In-Person Meeting,Weekends,Mandarin
+15312,68,Male,Divorced,High School Diploma,Salesperson,122197,Mobile App,Email,Afternoon,English
+15316,50,Female,Separated,Bachelor's Degree,Manager,51956,Email,In-Person Meeting,Morning,English
+15326,50,Female,Single,Associate Degree,Teacher,114956,Mobile App,Email,Morning,French
+15329,25,Male,Married,Master's Degree,Manager,38093,Mobile App,Mail,Anytime,Spanish
+15332,45,Male,Separated,Master's Degree,Teacher,37448,Email,Text,Weekends,French
+15339,41,Male,Divorced,High School Diploma,Artist,28910,In-Person,In-Person Meeting,Evening,French
+15346,30,Male,Separated,Master's Degree,Teacher,132271,Phone,Mail,Anytime,Spanish
+15347,19,Female,Widowed,Doctorate,Teacher,145667,In-Person,Email,Anytime,Spanish
+15350,70,Male,Separated,High School Diploma,Engineer,28356,Mobile App,Text,Evening,German
+15351,46,Female,Single,Associate Degree,Entrepreneur,70314,In-Person,Phone,Afternoon,French
+15353,68,Female,Single,Doctorate,Teacher,30296,Chat,Text,Morning,German
+15356,26,Female,Divorced,Bachelor's Degree,Doctor,125975,Phone,Text,Morning,English
+15358,20,Female,Widowed,High School Diploma,Engineer,47455,Phone,Text,Morning,Spanish
+15361,34,Female,Divorced,Bachelor's Degree,Entrepreneur,55765,Mobile App,Mail,Morning,English
+15363,53,Female,Divorced,Associate Degree,Lawyer,108400,Chat,Email,Morning,German
+15365,31,Male,Single,Bachelor's Degree,Engineer,84790,Mobile App,Mail,Weekends,German
+15366,36,Female,Single,Doctorate,Entrepreneur,90768,Phone,Mail,Weekends,French
+15370,34,Male,Widowed,Associate Degree,Doctor,70733,In-Person,Phone,Weekends,English
+15373,49,Male,Single,Doctorate,Entrepreneur,52610,Mobile App,Phone,Morning,Mandarin
+15379,36,Male,Separated,Doctorate,Salesperson,73239,Email,In-Person Meeting,Anytime,French
+15380,53,Male,Divorced,Associate Degree,Salesperson,101151,Chat,Mail,Morning,Mandarin
+15384,69,Male,Divorced,Doctorate,Engineer,66359,Chat,Mail,Morning,French
+15392,69,Female,Separated,High School Diploma,Manager,23677,Mobile App,Email,Weekends,French
+15394,55,Male,Married,Associate Degree,Doctor,81152,Mobile App,In-Person Meeting,Morning,Spanish
+15395,45,Male,Widowed,Master's Degree,Artist,97456,Phone,In-Person Meeting,Weekends,German
+15415,54,Female,Divorced,High School Diploma,Lawyer,64015,In-Person,Text,Weekends,French
+15421,68,Female,Single,Master's Degree,Entrepreneur,127020,Mobile App,In-Person Meeting,Anytime,Mandarin
+15422,36,Female,Married,Master's Degree,Artist,77939,Mobile App,In-Person Meeting,Morning,French
+15426,40,Male,Married,Associate Degree,Lawyer,31438,Mobile App,Text,Morning,English
+15443,50,Female,Married,High School Diploma,Salesperson,112783,Chat,Text,Weekends,English
+15447,34,Female,Married,Master's Degree,Entrepreneur,40661,Chat,In-Person Meeting,Weekends,Spanish
+15448,23,Female,Divorced,High School Diploma,Salesperson,143727,Chat,Text,Evening,German
+15454,67,Male,Married,Bachelor's Degree,Entrepreneur,27582,Mobile App,Text,Evening,Mandarin
+15456,68,Female,Separated,Bachelor's Degree,Engineer,140318,Phone,Text,Morning,Mandarin
+15460,24,Male,Divorced,Doctorate,Salesperson,100948,Mobile App,In-Person Meeting,Weekends,French
+15464,54,Female,Married,High School Diploma,Engineer,121558,In-Person,In-Person Meeting,Afternoon,German
+15465,63,Male,Divorced,Master's Degree,Salesperson,122952,In-Person,Mail,Afternoon,German
+15468,30,Male,Divorced,Associate Degree,Salesperson,119480,Chat,In-Person Meeting,Evening,English
+15482,51,Male,Married,Master's Degree,Lawyer,52664,Email,Text,Weekends,French
+15485,43,Female,Divorced,Master's Degree,Doctor,92642,Chat,Email,Anytime,French
+15497,37,Female,Divorced,Associate Degree,Salesperson,35927,Mobile App,Mail,Weekends,English
+15498,53,Female,Separated,Associate Degree,Engineer,54884,Chat,Phone,Evening,German
+15502,41,Male,Married,Associate Degree,Entrepreneur,36553,Mobile App,Phone,Morning,English
+15503,63,Male,Married,Doctorate,Teacher,57223,In-Person,Text,Weekends,English
+15510,24,Female,Single,Master's Degree,Salesperson,61210,Email,Text,Evening,German
+15512,40,Female,Married,Associate Degree,Artist,38625,Chat,Phone,Morning,English
+15513,64,Female,Single,Doctorate,Entrepreneur,107930,Mobile App,Email,Morning,Spanish
+15514,68,Female,Single,Doctorate,Salesperson,61121,In-Person,In-Person Meeting,Morning,German
+15518,33,Male,Divorced,Associate Degree,Manager,145099,Chat,Email,Weekends,German
+15525,42,Male,Single,Master's Degree,Teacher,45929,Chat,Text,Anytime,German
+15527,63,Male,Separated,Associate Degree,Teacher,49642,In-Person,Mail,Evening,English
+15529,69,Male,Divorced,Master's Degree,Doctor,146308,In-Person,Mail,Morning,Spanish
+15532,67,Female,Married,High School Diploma,Manager,105127,Chat,Text,Weekends,French
+15535,57,Female,Separated,Doctorate,Doctor,112332,In-Person,Mail,Anytime,Mandarin
+15544,45,Female,Married,Associate Degree,Artist,135603,Phone,Mail,Anytime,English
+15545,41,Male,Widowed,Associate Degree,Teacher,20912,Chat,Text,Morning,Spanish
+15547,45,Male,Single,Master's Degree,Manager,62086,Chat,In-Person Meeting,Anytime,English
+15549,30,Female,Married,Doctorate,Artist,101763,Phone,Text,Afternoon,French
+15555,54,Female,Divorced,Bachelor's Degree,Entrepreneur,23688,Mobile App,Phone,Morning,German
+15562,27,Female,Divorced,Doctorate,Nurse,59334,Chat,Email,Morning,German
+15563,25,Male,Married,Associate Degree,Salesperson,129927,In-Person,In-Person Meeting,Morning,Spanish
+15569,64,Female,Separated,Bachelor's Degree,Salesperson,26635,In-Person,Mail,Afternoon,French
+15570,19,Female,Single,High School Diploma,Salesperson,106557,Phone,Text,Afternoon,French
+15574,60,Female,Separated,Bachelor's Degree,Artist,146937,Phone,In-Person Meeting,Afternoon,English
+15579,38,Male,Widowed,Associate Degree,Nurse,103291,Mobile App,In-Person Meeting,Morning,Mandarin
+15581,22,Female,Single,Doctorate,Engineer,136205,Phone,Text,Weekends,German
+15587,42,Male,Widowed,Doctorate,Nurse,115025,In-Person,Email,Weekends,German
+15589,37,Female,Single,High School Diploma,Manager,62815,Phone,In-Person Meeting,Afternoon,French
+15596,56,Male,Single,Associate Degree,Manager,92166,Mobile App,Text,Morning,English
+15601,43,Female,Single,Bachelor's Degree,Teacher,90591,Email,Mail,Morning,Mandarin
+15602,51,Female,Widowed,High School Diploma,Engineer,27243,In-Person,Text,Evening,Spanish
+15605,62,Female,Widowed,Bachelor's Degree,Manager,104907,Chat,Phone,Morning,German
+15606,38,Male,Single,Associate Degree,Nurse,54989,Chat,Email,Afternoon,English
+15607,56,Female,Widowed,Associate Degree,Manager,93626,Email,Text,Anytime,English
+15611,54,Female,Divorced,Doctorate,Doctor,58070,Chat,Mail,Anytime,Spanish
+15615,46,Female,Married,Master's Degree,Lawyer,147353,Phone,Email,Evening,German
+15620,63,Female,Separated,Doctorate,Lawyer,25536,Mobile App,Email,Afternoon,Spanish
+15626,70,Female,Separated,Doctorate,Engineer,90993,Mobile App,In-Person Meeting,Weekends,German
+15628,66,Female,Divorced,Doctorate,Entrepreneur,108348,Chat,Email,Weekends,English
+15640,41,Female,Widowed,Associate Degree,Nurse,35133,In-Person,Mail,Anytime,English
+15641,64,Male,Married,Associate Degree,Lawyer,117618,In-Person,Phone,Morning,French
+15646,34,Male,Married,Bachelor's Degree,Manager,57050,Phone,Text,Weekends,French
+15649,69,Female,Separated,Doctorate,Teacher,57390,Chat,In-Person Meeting,Morning,German
+15658,47,Female,Married,Associate Degree,Lawyer,56046,Chat,Phone,Evening,Mandarin
+15660,35,Female,Single,Bachelor's Degree,Lawyer,40874,Mobile App,Text,Anytime,English
+15661,70,Male,Single,Associate Degree,Artist,88030,In-Person,Phone,Afternoon,English
+15664,58,Female,Separated,High School Diploma,Engineer,49025,Mobile App,Text,Anytime,German
+15673,48,Female,Single,High School Diploma,Entrepreneur,77851,Mobile App,Phone,Morning,Mandarin
+15680,68,Male,Single,Associate Degree,Lawyer,25132,Phone,Mail,Morning,French
+15687,56,Female,Married,Doctorate,Nurse,82527,Chat,Mail,Afternoon,German
+15689,43,Female,Widowed,Doctorate,Teacher,69845,Chat,Text,Morning,German
+15694,33,Female,Single,High School Diploma,Doctor,36403,Chat,Mail,Morning,English
+15696,36,Female,Married,Associate Degree,Manager,35133,Chat,Text,Weekends,English
+15708,54,Female,Separated,Bachelor's Degree,Engineer,69931,In-Person,Mail,Morning,German
+15713,51,Female,Single,High School Diploma,Artist,58306,Mobile App,Phone,Anytime,English
+15716,69,Female,Single,Associate Degree,Artist,94162,Chat,Phone,Morning,Spanish
+15719,22,Male,Divorced,Bachelor's Degree,Manager,38621,Phone,In-Person Meeting,Anytime,German
+15723,68,Male,Widowed,Associate Degree,Doctor,146321,Email,Email,Anytime,German
+15727,31,Female,Married,Master's Degree,Lawyer,133268,In-Person,Phone,Weekends,Mandarin
+15732,58,Female,Separated,High School Diploma,Manager,145614,Phone,Phone,Evening,Mandarin
+15738,56,Female,Married,Doctorate,Doctor,40593,Phone,Email,Morning,German
+15749,54,Male,Separated,Bachelor's Degree,Doctor,123810,Chat,In-Person Meeting,Evening,German
+15750,23,Female,Single,Master's Degree,Entrepreneur,43508,Email,Text,Weekends,German
+15752,59,Female,Married,Doctorate,Teacher,106025,Email,Phone,Afternoon,Mandarin
+15759,28,Male,Single,Bachelor's Degree,Entrepreneur,49189,Mobile App,Email,Evening,French
+15769,25,Female,Divorced,Associate Degree,Salesperson,33634,In-Person,Text,Morning,Mandarin
+15777,38,Male,Divorced,High School Diploma,Doctor,91063,Chat,Text,Anytime,French
+15780,35,Female,Widowed,Associate Degree,Entrepreneur,53108,Mobile App,Email,Evening,German
+15781,36,Female,Divorced,Bachelor's Degree,Doctor,118218,Phone,Phone,Morning,Spanish
+15789,45,Male,Married,Bachelor's Degree,Doctor,48818,Chat,Mail,Morning,German
+15797,41,Male,Single,Master's Degree,Teacher,34748,Chat,Email,Morning,German
+15799,65,Female,Widowed,Associate Degree,Salesperson,131779,Mobile App,Phone,Morning,French
+15805,35,Female,Single,Associate Degree,Manager,116951,Chat,Text,Weekends,Spanish
+15808,63,Female,Divorced,High School Diploma,Nurse,57401,Phone,Text,Afternoon,German
+15811,27,Female,Widowed,Doctorate,Artist,55873,Chat,In-Person Meeting,Weekends,English
+15812,62,Female,Widowed,Doctorate,Salesperson,72681,Chat,Text,Anytime,French
+15820,34,Male,Separated,Bachelor's Degree,Salesperson,71741,Email,Email,Weekends,Spanish
+15822,55,Male,Divorced,Bachelor's Degree,Lawyer,141338,In-Person,Mail,Weekends,Spanish
+15823,39,Male,Widowed,Master's Degree,Lawyer,144340,In-Person,In-Person Meeting,Weekends,French
+15827,23,Male,Married,Master's Degree,Teacher,66133,Phone,Text,Evening,English
+15831,42,Male,Widowed,Master's Degree,Artist,105067,Mobile App,Mail,Morning,French
+15834,63,Male,Widowed,Bachelor's Degree,Salesperson,86965,Phone,Mail,Afternoon,Spanish
+15835,24,Male,Widowed,Bachelor's Degree,Doctor,28151,Mobile App,Phone,Afternoon,German
+15838,56,Male,Divorced,Master's Degree,Teacher,76343,Mobile App,Email,Evening,Mandarin
+15841,64,Male,Single,Bachelor's Degree,Manager,100037,Chat,Email,Weekends,German
+15845,19,Female,Married,High School Diploma,Manager,70023,Email,Email,Morning,Spanish
+15854,34,Male,Divorced,Associate Degree,Manager,61673,Mobile App,Phone,Afternoon,German
+15856,70,Female,Single,Master's Degree,Salesperson,44873,Chat,Phone,Morning,English
+15858,40,Male,Divorced,Master's Degree,Teacher,33664,Chat,Email,Evening,English
+15860,50,Male,Married,Doctorate,Doctor,121431,Phone,Mail,Evening,French
+15862,68,Male,Married,Bachelor's Degree,Lawyer,27364,Chat,Email,Evening,German
+15864,36,Male,Divorced,Doctorate,Teacher,82053,In-Person,Mail,Weekends,English
+15867,43,Female,Divorced,Associate Degree,Salesperson,136209,Phone,In-Person Meeting,Weekends,Spanish
+15880,46,Female,Divorced,High School Diploma,Manager,37433,Email,Mail,Evening,German
+15881,68,Female,Single,Doctorate,Artist,146831,Email,In-Person Meeting,Morning,English
+15882,70,Female,Divorced,High School Diploma,Artist,73244,In-Person,In-Person Meeting,Weekends,Spanish
+15885,23,Male,Separated,Doctorate,Entrepreneur,122473,Chat,Text,Evening,Mandarin
+15889,20,Male,Separated,Doctorate,Lawyer,107706,Phone,Mail,Evening,French
+15894,63,Female,Divorced,Associate Degree,Engineer,36520,Chat,Mail,Morning,German
+15898,66,Male,Divorced,Master's Degree,Entrepreneur,72662,Phone,Phone,Weekends,Spanish
+15899,53,Female,Widowed,High School Diploma,Artist,38799,Email,Email,Morning,French
+15910,42,Male,Divorced,Doctorate,Manager,27053,Email,Text,Afternoon,French
+15916,26,Female,Widowed,Associate Degree,Salesperson,52502,Mobile App,Email,Morning,English
+15919,41,Male,Single,Master's Degree,Entrepreneur,136081,Email,Phone,Weekends,German
+15922,32,Male,Divorced,Bachelor's Degree,Engineer,125748,Mobile App,Mail,Weekends,Mandarin
+15923,20,Female,Separated,High School Diploma,Nurse,34692,Mobile App,Text,Morning,Spanish
+15938,37,Male,Widowed,High School Diploma,Artist,143041,Email,In-Person Meeting,Evening,Mandarin
+15939,34,Male,Separated,Associate Degree,Lawyer,144662,Mobile App,Email,Weekends,French
+15940,43,Male,Separated,Associate Degree,Manager,53591,Email,Email,Weekends,English
+15945,28,Male,Separated,Associate Degree,Salesperson,57254,In-Person,Mail,Evening,French
+15950,63,Male,Married,Associate Degree,Lawyer,137160,Email,Phone,Weekends,French
+15953,35,Male,Separated,Master's Degree,Entrepreneur,82774,In-Person,In-Person Meeting,Morning,French
+15955,59,Male,Single,Doctorate,Manager,102179,Chat,In-Person Meeting,Morning,English
+15965,43,Male,Widowed,Associate Degree,Teacher,119354,Chat,Email,Weekends,English
+15967,65,Male,Married,Doctorate,Manager,121586,Email,In-Person Meeting,Weekends,French
+15971,69,Male,Widowed,Associate Degree,Manager,131861,Mobile App,Text,Weekends,English
+15973,39,Male,Divorced,Associate Degree,Doctor,114442,Mobile App,Text,Weekends,Mandarin
+15981,67,Female,Widowed,Master's Degree,Artist,81458,Chat,Mail,Evening,Spanish
+15983,33,Male,Divorced,Associate Degree,Teacher,118108,Mobile App,Text,Anytime,French
+15984,32,Female,Divorced,Doctorate,Teacher,81478,Chat,Email,Weekends,Mandarin
+15987,18,Female,Married,Doctorate,Lawyer,116995,Mobile App,In-Person Meeting,Anytime,German
+15996,33,Male,Separated,Doctorate,Nurse,53900,In-Person,In-Person Meeting,Evening,Mandarin
+15998,32,Female,Widowed,Associate Degree,Entrepreneur,38168,Mobile App,Mail,Afternoon,French
+16003,20,Male,Married,Associate Degree,Entrepreneur,42492,In-Person,Text,Evening,English
+16010,24,Male,Married,Doctorate,Lawyer,33044,Chat,Text,Afternoon,English
+16011,63,Female,Single,High School Diploma,Engineer,144713,Chat,Phone,Evening,English
+16013,42,Male,Married,Associate Degree,Teacher,69586,In-Person,Text,Afternoon,English
+16016,26,Male,Married,Bachelor's Degree,Entrepreneur,30033,Email,Email,Morning,German
+16019,55,Male,Divorced,High School Diploma,Engineer,112822,Phone,Phone,Weekends,German
+16029,65,Female,Widowed,High School Diploma,Entrepreneur,24648,Phone,In-Person Meeting,Evening,English
+16030,63,Male,Divorced,Bachelor's Degree,Entrepreneur,49671,Chat,Mail,Anytime,English
+16033,57,Male,Widowed,Doctorate,Manager,48224,In-Person,In-Person Meeting,Morning,English
+16034,32,Female,Divorced,Associate Degree,Engineer,112154,Chat,Email,Weekends,Mandarin
+16037,68,Male,Separated,High School Diploma,Entrepreneur,63989,Phone,Text,Weekends,Spanish
+16042,52,Male,Separated,Associate Degree,Salesperson,132319,Chat,Email,Weekends,Mandarin
+16043,41,Female,Separated,High School Diploma,Nurse,26899,In-Person,Text,Afternoon,French
+16048,52,Female,Separated,High School Diploma,Nurse,39956,Email,Email,Weekends,English
+16059,58,Female,Divorced,High School Diploma,Doctor,96100,Phone,Phone,Weekends,English
+16062,45,Female,Single,Associate Degree,Manager,25490,Chat,Mail,Morning,Mandarin
+16065,20,Female,Divorced,Associate Degree,Doctor,125728,Mobile App,In-Person Meeting,Weekends,French
+16081,26,Male,Single,Bachelor's Degree,Engineer,40191,Mobile App,Text,Anytime,Spanish
+16083,42,Female,Separated,Associate Degree,Artist,92540,Email,Phone,Weekends,German
+16085,27,Male,Widowed,Master's Degree,Lawyer,60046,In-Person,In-Person Meeting,Weekends,Spanish
+16086,63,Female,Divorced,Doctorate,Lawyer,37099,Chat,Text,Afternoon,German
+16094,54,Male,Separated,Associate Degree,Teacher,73699,Chat,Text,Afternoon,Spanish
+16098,69,Male,Widowed,Master's Degree,Artist,62099,In-Person,In-Person Meeting,Weekends,French
+16109,56,Female,Married,Associate Degree,Nurse,53258,In-Person,Phone,Weekends,Mandarin
+16110,31,Male,Married,Associate Degree,Entrepreneur,93726,Chat,Mail,Anytime,French
+16112,34,Male,Divorced,Associate Degree,Manager,67902,In-Person,In-Person Meeting,Evening,Spanish
+16122,38,Male,Divorced,Associate Degree,Manager,120758,Phone,In-Person Meeting,Evening,English
+16124,37,Male,Single,Master's Degree,Manager,142354,Chat,Text,Evening,German
+16125,69,Female,Divorced,Bachelor's Degree,Lawyer,69487,In-Person,In-Person Meeting,Weekends,German
+16133,24,Female,Widowed,High School Diploma,Nurse,76259,Chat,Mail,Evening,French
+16134,42,Female,Divorced,High School Diploma,Manager,79753,Email,Phone,Weekends,English
+16138,23,Female,Married,Associate Degree,Artist,72194,Chat,Text,Weekends,French
+16140,45,Male,Married,High School Diploma,Artist,88672,Phone,Text,Morning,Spanish
+16143,70,Female,Separated,Associate Degree,Salesperson,22101,Phone,Text,Morning,German
+16145,59,Male,Divorced,Doctorate,Salesperson,148492,Chat,In-Person Meeting,Weekends,Spanish
+16150,26,Male,Widowed,Doctorate,Lawyer,22807,Mobile App,Text,Afternoon,Mandarin
+16153,43,Male,Divorced,Master's Degree,Lawyer,116449,Phone,Text,Evening,Spanish
+16156,21,Female,Single,Bachelor's Degree,Salesperson,58706,Mobile App,Email,Morning,German
+16161,57,Male,Divorced,Bachelor's Degree,Salesperson,30666,Email,Email,Evening,English
+16163,63,Male,Married,High School Diploma,Lawyer,90728,In-Person,Email,Weekends,Mandarin
+16168,42,Male,Divorced,Master's Degree,Engineer,115575,Chat,Text,Weekends,Spanish
+16186,51,Female,Married,Associate Degree,Lawyer,117187,Phone,Email,Morning,French
+16191,26,Male,Divorced,High School Diploma,Lawyer,89386,Phone,Mail,Anytime,German
+16202,32,Male,Single,Associate Degree,Teacher,67178,Email,Mail,Morning,English
+16203,59,Male,Divorced,Associate Degree,Doctor,119693,Phone,Email,Afternoon,Mandarin
+16206,48,Female,Widowed,Bachelor's Degree,Nurse,30010,Chat,Text,Afternoon,German
+16210,40,Female,Divorced,Associate Degree,Artist,73501,Phone,Email,Anytime,Spanish
+16218,70,Male,Widowed,Bachelor's Degree,Teacher,134035,Chat,In-Person Meeting,Weekends,German
+16221,45,Female,Divorced,Doctorate,Entrepreneur,87585,Phone,Phone,Evening,English
+16222,69,Male,Single,Doctorate,Manager,55044,Email,Email,Evening,English
+16233,41,Male,Widowed,High School Diploma,Lawyer,69778,Chat,Phone,Morning,Mandarin
+16235,43,Male,Divorced,Doctorate,Salesperson,132593,In-Person,Mail,Weekends,English
+16241,26,Male,Single,Bachelor's Degree,Doctor,70280,Mobile App,Text,Anytime,Mandarin
+16244,58,Male,Divorced,Doctorate,Teacher,28246,In-Person,Text,Weekends,German
+16250,64,Male,Single,High School Diploma,Doctor,105009,Phone,In-Person Meeting,Evening,German
+16252,45,Male,Single,Associate Degree,Doctor,123834,Chat,Text,Afternoon,German
+16255,23,Female,Married,Associate Degree,Manager,82127,Chat,Mail,Weekends,German
+16262,54,Male,Separated,Master's Degree,Entrepreneur,135332,Email,Mail,Weekends,English
+16265,40,Male,Single,High School Diploma,Entrepreneur,38400,Email,Text,Weekends,French
+16270,43,Male,Widowed,Associate Degree,Teacher,113059,Email,In-Person Meeting,Weekends,German
+16271,43,Female,Divorced,Associate Degree,Lawyer,53036,Phone,In-Person Meeting,Weekends,French
+16274,34,Female,Divorced,Bachelor's Degree,Engineer,99408,Chat,Email,Morning,German
+16279,55,Female,Divorced,Doctorate,Salesperson,99747,Chat,Mail,Morning,French
+16282,48,Female,Widowed,High School Diploma,Nurse,137945,Mobile App,Email,Anytime,French
+16293,30,Female,Married,High School Diploma,Entrepreneur,39758,Chat,Text,Anytime,French
+16303,53,Male,Married,Doctorate,Nurse,134654,Mobile App,Mail,Weekends,Mandarin
+16306,64,Male,Divorced,Master's Degree,Lawyer,68280,Phone,In-Person Meeting,Evening,English
+16315,23,Female,Divorced,Associate Degree,Artist,62974,In-Person,Mail,Morning,Spanish
+16316,44,Female,Married,Bachelor's Degree,Teacher,146158,Mobile App,Mail,Anytime,Spanish
+16321,32,Female,Divorced,Associate Degree,Salesperson,132860,In-Person,Text,Weekends,Mandarin
+16326,47,Female,Widowed,Doctorate,Salesperson,67399,Email,Phone,Weekends,Mandarin
+16327,56,Male,Separated,Master's Degree,Lawyer,42273,Email,Email,Evening,German
+16333,64,Male,Divorced,Bachelor's Degree,Artist,137537,Chat,Phone,Anytime,Spanish
+16350,43,Female,Single,Associate Degree,Salesperson,79131,Mobile App,Email,Weekends,German
+16351,64,Male,Married,Associate Degree,Nurse,67062,Chat,Email,Anytime,German
+16353,57,Male,Single,Bachelor's Degree,Artist,40112,In-Person,Text,Weekends,Mandarin
+16359,37,Male,Single,Associate Degree,Doctor,26094,Mobile App,Phone,Weekends,Spanish
+16365,47,Female,Single,High School Diploma,Artist,97987,Email,Phone,Morning,Spanish
+16367,24,Male,Married,Associate Degree,Nurse,116748,Chat,Mail,Anytime,French
+16378,37,Male,Widowed,Master's Degree,Artist,105766,Chat,In-Person Meeting,Weekends,French
+16385,33,Female,Widowed,High School Diploma,Salesperson,68017,Chat,Email,Afternoon,French
+16387,57,Female,Divorced,Doctorate,Doctor,27706,In-Person,Text,Afternoon,English
+16393,42,Male,Married,Bachelor's Degree,Salesperson,37782,Mobile App,Mail,Morning,French
+16395,19,Female,Separated,Doctorate,Lawyer,36691,Email,Mail,Afternoon,Mandarin
+16401,55,Female,Divorced,Doctorate,Manager,83120,In-Person,In-Person Meeting,Afternoon,Spanish
+16402,46,Male,Married,Master's Degree,Salesperson,101418,In-Person,Mail,Weekends,German
+16403,43,Male,Widowed,High School Diploma,Lawyer,45118,Phone,In-Person Meeting,Anytime,French
+16405,31,Male,Divorced,High School Diploma,Nurse,101737,Mobile App,Mail,Evening,German
+16407,37,Male,Single,Doctorate,Entrepreneur,96465,Mobile App,Email,Evening,French
+16409,68,Male,Married,Doctorate,Entrepreneur,40728,In-Person,In-Person Meeting,Afternoon,French
+16411,57,Female,Divorced,Doctorate,Teacher,54239,Email,In-Person Meeting,Evening,French
+16419,56,Female,Married,Bachelor's Degree,Teacher,131091,Mobile App,Mail,Anytime,Spanish
+16422,35,Female,Single,Doctorate,Manager,133367,In-Person,Mail,Evening,German
+16424,33,Male,Married,Doctorate,Engineer,106283,In-Person,Mail,Evening,Mandarin
+16442,37,Female,Married,Associate Degree,Teacher,105429,Mobile App,Email,Anytime,Mandarin
+16455,45,Male,Separated,High School Diploma,Doctor,125138,Email,Email,Afternoon,French
+16456,27,Male,Single,High School Diploma,Doctor,101551,Phone,Mail,Anytime,French
+16458,20,Male,Widowed,Master's Degree,Nurse,31646,In-Person,In-Person Meeting,Morning,English
+16470,53,Male,Widowed,Doctorate,Artist,106454,In-Person,Email,Weekends,English
+16473,24,Male,Single,Master's Degree,Doctor,99734,In-Person,Email,Morning,German
+16477,48,Female,Divorced,Master's Degree,Manager,22850,Chat,Mail,Morning,Spanish
+16493,67,Female,Single,Master's Degree,Manager,81478,Mobile App,Email,Anytime,German
+16496,56,Male,Married,Doctorate,Manager,98788,Phone,Mail,Morning,Mandarin
+16497,69,Female,Married,Associate Degree,Engineer,96148,Email,Email,Anytime,English
+16499,39,Male,Single,Associate Degree,Engineer,123460,Chat,Email,Anytime,Mandarin
+16500,42,Male,Divorced,Associate Degree,Artist,110857,Chat,Phone,Morning,Spanish
+16503,68,Male,Single,Bachelor's Degree,Entrepreneur,75266,Email,Mail,Evening,French
+16510,29,Female,Separated,High School Diploma,Engineer,143911,Phone,In-Person Meeting,Evening,French
+16515,23,Male,Married,Associate Degree,Manager,115765,In-Person,Text,Morning,German
+16519,24,Female,Divorced,Doctorate,Salesperson,68713,Mobile App,In-Person Meeting,Afternoon,Mandarin
+16520,35,Female,Widowed,High School Diploma,Manager,24951,Chat,In-Person Meeting,Weekends,German
+16523,68,Male,Separated,Associate Degree,Doctor,134848,Chat,Phone,Weekends,French
+16525,60,Female,Divorced,Bachelor's Degree,Entrepreneur,137383,Phone,Email,Afternoon,Spanish
+16531,34,Male,Married,Master's Degree,Teacher,52411,Chat,Email,Evening,Spanish
+16532,25,Female,Single,Master's Degree,Artist,68059,Chat,Mail,Afternoon,French
+16539,20,Female,Married,Associate Degree,Entrepreneur,135104,Chat,Text,Anytime,German
+16546,65,Female,Single,High School Diploma,Lawyer,143941,Mobile App,Text,Weekends,Mandarin
+16549,19,Male,Divorced,Associate Degree,Manager,25961,In-Person,Text,Afternoon,English
+16550,56,Male,Divorced,Associate Degree,Doctor,116359,Mobile App,Email,Evening,Mandarin
+16551,37,Male,Married,Doctorate,Teacher,49563,Phone,Email,Weekends,French
+16552,26,Male,Separated,Doctorate,Artist,144888,Email,Mail,Evening,German
+16553,31,Female,Single,Doctorate,Artist,104871,Mobile App,In-Person Meeting,Morning,Spanish
+16554,38,Male,Widowed,High School Diploma,Teacher,120909,Mobile App,Text,Morning,Mandarin
+16556,40,Male,Widowed,Doctorate,Artist,43810,Chat,Phone,Anytime,French
+16558,33,Male,Married,High School Diploma,Lawyer,131431,Mobile App,Phone,Weekends,Mandarin
+16560,54,Male,Divorced,Doctorate,Entrepreneur,143695,In-Person,Text,Anytime,French
+16565,30,Female,Separated,Master's Degree,Lawyer,136901,Mobile App,Mail,Evening,German
+16567,47,Male,Widowed,Doctorate,Lawyer,84284,In-Person,Phone,Weekends,French
+16570,70,Female,Married,Master's Degree,Nurse,109259,In-Person,Mail,Morning,German
+16579,40,Male,Widowed,Associate Degree,Artist,87389,Email,Email,Afternoon,German
+16583,27,Male,Married,Associate Degree,Salesperson,36781,Email,Text,Weekends,English
+16593,41,Male,Divorced,High School Diploma,Salesperson,52857,Phone,Email,Afternoon,Spanish
+16596,56,Male,Married,Bachelor's Degree,Teacher,27171,Phone,Phone,Morning,German
+16600,30,Female,Widowed,Associate Degree,Salesperson,72910,Email,Email,Afternoon,German
+16607,64,Female,Married,Associate Degree,Lawyer,44393,Mobile App,Mail,Evening,Spanish
+16612,39,Male,Separated,Associate Degree,Lawyer,93532,Mobile App,Email,Evening,German
+16618,22,Female,Widowed,Doctorate,Entrepreneur,128927,In-Person,Text,Weekends,English
+16634,56,Female,Single,High School Diploma,Lawyer,98388,Chat,Mail,Weekends,German
+16638,32,Female,Married,Master's Degree,Doctor,81030,Mobile App,Phone,Weekends,French
+16654,31,Female,Married,Bachelor's Degree,Salesperson,109568,Phone,Phone,Morning,English
+16655,57,Female,Married,High School Diploma,Teacher,27683,Chat,Mail,Morning,Mandarin
+16656,56,Male,Separated,High School Diploma,Salesperson,99923,Mobile App,Phone,Morning,French
+16658,57,Female,Divorced,Master's Degree,Teacher,67139,Mobile App,Email,Weekends,Spanish
+16660,21,Female,Married,Doctorate,Salesperson,69462,Phone,Mail,Evening,French
+16665,70,Male,Single,Doctorate,Engineer,33108,Chat,Mail,Afternoon,French
+16670,20,Male,Married,Master's Degree,Nurse,102631,Chat,In-Person Meeting,Anytime,Mandarin
+16676,52,Female,Single,Doctorate,Lawyer,42870,Chat,Text,Weekends,English
+16679,68,Female,Married,Associate Degree,Nurse,83419,In-Person,Mail,Morning,Spanish
+16684,50,Female,Widowed,Associate Degree,Entrepreneur,77002,Chat,Email,Afternoon,Spanish
+16686,61,Female,Married,Bachelor's Degree,Engineer,36984,Phone,Text,Weekends,Mandarin
+16700,20,Female,Widowed,Doctorate,Salesperson,110659,Mobile App,Phone,Evening,German
+16701,23,Female,Single,Associate Degree,Doctor,124131,Phone,In-Person Meeting,Anytime,English
+16705,31,Male,Divorced,Bachelor's Degree,Entrepreneur,133497,Email,Text,Morning,German
+16710,68,Female,Widowed,High School Diploma,Entrepreneur,144631,In-Person,Mail,Evening,English
+16711,57,Female,Separated,Bachelor's Degree,Manager,127738,Chat,Text,Morning,German
+16713,41,Male,Divorced,Associate Degree,Engineer,105486,Phone,Email,Afternoon,English
+16714,54,Male,Married,Doctorate,Lawyer,133576,Email,In-Person Meeting,Evening,Spanish
+16716,31,Female,Single,Associate Degree,Entrepreneur,58854,Chat,Email,Weekends,French
+16717,53,Male,Divorced,High School Diploma,Lawyer,57352,Email,In-Person Meeting,Morning,English
+16718,19,Female,Married,Master's Degree,Entrepreneur,66575,Chat,Mail,Evening,English
+16719,54,Female,Widowed,High School Diploma,Teacher,28969,Phone,Mail,Morning,English
+16722,57,Female,Single,Doctorate,Entrepreneur,128242,In-Person,Mail,Weekends,French
+16725,43,Male,Married,Master's Degree,Doctor,130554,Email,Email,Morning,Mandarin
+16726,49,Male,Divorced,Bachelor's Degree,Salesperson,135276,Email,Email,Morning,French
+16727,48,Female,Single,Doctorate,Engineer,104542,Phone,Text,Morning,English
+16730,69,Female,Divorced,Bachelor's Degree,Entrepreneur,44013,Chat,Phone,Anytime,German
+16735,20,Female,Separated,Associate Degree,Nurse,85291,Phone,Phone,Afternoon,German
+16743,58,Male,Married,Bachelor's Degree,Nurse,69187,Chat,Mail,Evening,French
+16745,67,Male,Widowed,High School Diploma,Teacher,146606,Mobile App,In-Person Meeting,Afternoon,German
+16746,30,Female,Separated,Associate Degree,Nurse,44556,Mobile App,Mail,Morning,French
+16748,33,Female,Separated,High School Diploma,Engineer,145344,Phone,Text,Evening,Spanish
+16752,26,Male,Divorced,Associate Degree,Teacher,141194,Chat,Email,Evening,German
+16754,23,Male,Single,Associate Degree,Nurse,94921,Email,Text,Morning,French
+16755,63,Female,Single,Associate Degree,Manager,109834,Phone,In-Person Meeting,Afternoon,German
+16757,25,Male,Married,Bachelor's Degree,Salesperson,24816,In-Person,Phone,Weekends,Spanish
+16767,34,Female,Married,Associate Degree,Artist,35564,Mobile App,Phone,Morning,English
+16770,30,Female,Separated,High School Diploma,Manager,49349,Mobile App,Email,Afternoon,German
+16771,51,Male,Single,Associate Degree,Salesperson,115158,Mobile App,Email,Anytime,French
+16775,23,Female,Divorced,Bachelor's Degree,Entrepreneur,40569,Phone,Phone,Weekends,English
+16779,40,Female,Separated,Master's Degree,Artist,93940,Mobile App,In-Person Meeting,Morning,French
+16781,34,Female,Married,Master's Degree,Teacher,101557,Email,Text,Evening,French
+16782,42,Female,Married,Bachelor's Degree,Doctor,134865,Chat,Phone,Afternoon,German
+16791,56,Male,Divorced,Doctorate,Entrepreneur,81176,Mobile App,Text,Anytime,German
+16795,36,Female,Divorced,Master's Degree,Doctor,81691,Chat,Email,Weekends,French
+16805,52,Female,Single,Associate Degree,Salesperson,138595,In-Person,Mail,Anytime,French
+16810,70,Male,Separated,Bachelor's Degree,Entrepreneur,122735,Email,In-Person Meeting,Weekends,German
+16812,35,Male,Divorced,Bachelor's Degree,Engineer,40588,Phone,Text,Evening,French
+16814,64,Male,Widowed,Master's Degree,Lawyer,93497,Mobile App,Email,Weekends,French
+16816,35,Male,Divorced,Associate Degree,Teacher,117916,Chat,In-Person Meeting,Afternoon,English
+16817,70,Male,Single,Master's Degree,Teacher,24654,Mobile App,In-Person Meeting,Weekends,English
+16833,39,Female,Married,Master's Degree,Lawyer,62394,Chat,Mail,Anytime,Spanish
+16835,68,Male,Separated,Bachelor's Degree,Salesperson,85875,Mobile App,Mail,Afternoon,French
+16839,30,Male,Widowed,High School Diploma,Nurse,39720,Chat,Mail,Morning,Mandarin
+16843,54,Female,Single,Associate Degree,Engineer,116914,In-Person,Text,Morning,German
+16850,38,Female,Married,Bachelor's Degree,Nurse,119286,Chat,In-Person Meeting,Anytime,Mandarin
+16858,30,Female,Separated,Associate Degree,Engineer,51986,Mobile App,Mail,Morning,German
+16861,50,Female,Widowed,High School Diploma,Entrepreneur,37008,Chat,Phone,Anytime,English
+16863,45,Female,Separated,Associate Degree,Salesperson,39472,Phone,Email,Evening,German
+16873,69,Female,Separated,Associate Degree,Entrepreneur,137606,Mobile App,In-Person Meeting,Anytime,French
+16875,36,Male,Widowed,Bachelor's Degree,Salesperson,145192,In-Person,Phone,Afternoon,German
+16882,40,Female,Married,Associate Degree,Manager,122302,Phone,In-Person Meeting,Morning,Spanish
+16883,39,Male,Married,Bachelor's Degree,Lawyer,80979,Email,Email,Evening,French
+16885,26,Female,Widowed,Doctorate,Lawyer,101287,In-Person,Mail,Afternoon,French
+16889,22,Female,Separated,Master's Degree,Nurse,145558,Mobile App,Mail,Afternoon,German
+16891,54,Male,Single,Master's Degree,Engineer,66831,Chat,Email,Weekends,German
+16892,29,Male,Separated,Bachelor's Degree,Entrepreneur,83715,Phone,Phone,Weekends,Spanish
+16893,35,Female,Divorced,Associate Degree,Artist,112083,Chat,Text,Anytime,French
+16897,64,Male,Single,Bachelor's Degree,Doctor,53516,Chat,Email,Evening,French
+16898,42,Female,Single,High School Diploma,Doctor,120687,Phone,In-Person Meeting,Anytime,Mandarin
+16899,39,Female,Single,Master's Degree,Teacher,75599,In-Person,Phone,Morning,German
+16904,38,Male,Separated,High School Diploma,Entrepreneur,67469,Chat,In-Person Meeting,Afternoon,Mandarin
+16905,36,Male,Married,Doctorate,Salesperson,149115,Chat,Mail,Afternoon,Mandarin
+16907,41,Male,Separated,Doctorate,Salesperson,144262,Chat,Email,Morning,French
+16912,53,Female,Separated,Associate Degree,Doctor,24685,In-Person,Mail,Weekends,French
+16916,35,Male,Widowed,High School Diploma,Manager,36761,Chat,Text,Morning,English
+16918,56,Female,Divorced,Bachelor's Degree,Doctor,67813,Email,Mail,Morning,Spanish
+16919,64,Male,Married,Doctorate,Lawyer,73693,In-Person,Phone,Evening,English
+16923,42,Male,Divorced,Doctorate,Doctor,118914,Chat,In-Person Meeting,Morning,Mandarin
+16926,47,Male,Widowed,Master's Degree,Entrepreneur,96023,Chat,Mail,Morning,German
+16927,39,Male,Separated,Doctorate,Salesperson,109686,Mobile App,Mail,Morning,German
+16928,40,Female,Married,High School Diploma,Teacher,118942,Phone,Mail,Weekends,Mandarin
+16931,59,Male,Married,Bachelor's Degree,Salesperson,57650,Mobile App,Mail,Anytime,German
+16938,45,Male,Divorced,High School Diploma,Teacher,92619,Mobile App,Email,Afternoon,German
+16943,56,Male,Single,High School Diploma,Doctor,111759,Phone,Phone,Weekends,German
+16945,22,Female,Married,High School Diploma,Lawyer,114321,Phone,Phone,Morning,French
+16948,35,Male,Separated,High School Diploma,Engineer,47847,Email,Email,Anytime,German
+16949,33,Male,Single,Doctorate,Lawyer,96592,Email,Mail,Afternoon,German
+16950,20,Female,Married,Doctorate,Doctor,120322,Phone,Text,Evening,Spanish
+16954,64,Male,Single,High School Diploma,Nurse,114643,Email,Text,Anytime,Spanish
+16955,42,Female,Separated,Master's Degree,Nurse,65337,In-Person,In-Person Meeting,Afternoon,French
+16983,60,Male,Widowed,Associate Degree,Salesperson,26406,In-Person,Phone,Weekends,Mandarin
+16985,47,Female,Married,High School Diploma,Engineer,110675,Mobile App,Text,Weekends,German
+16992,29,Female,Single,Doctorate,Lawyer,120285,Phone,In-Person Meeting,Afternoon,Mandarin
+16995,23,Male,Single,High School Diploma,Lawyer,33250,Mobile App,Email,Afternoon,French
+16996,60,Male,Widowed,Master's Degree,Engineer,144701,Email,Phone,Evening,French
+16997,61,Male,Divorced,High School Diploma,Teacher,80084,Chat,In-Person Meeting,Weekends,English
+17001,31,Male,Divorced,Bachelor's Degree,Nurse,49314,Chat,In-Person Meeting,Morning,Spanish
+17007,21,Female,Separated,Doctorate,Entrepreneur,88790,Mobile App,Phone,Anytime,French
+17017,35,Female,Married,Associate Degree,Artist,101834,Phone,Mail,Anytime,English
+17018,24,Female,Widowed,Bachelor's Degree,Doctor,60448,Chat,Mail,Evening,German
+17019,64,Male,Separated,High School Diploma,Engineer,89634,Phone,Email,Afternoon,French
+17025,56,Male,Widowed,Associate Degree,Teacher,47121,Mobile App,Email,Weekends,French
+17026,34,Male,Widowed,Associate Degree,Entrepreneur,26869,In-Person,Mail,Weekends,German
+17027,68,Female,Widowed,Doctorate,Salesperson,92868,In-Person,Mail,Weekends,French
+17033,63,Female,Widowed,High School Diploma,Salesperson,42476,Mobile App,Phone,Morning,Spanish
+17035,26,Male,Single,Doctorate,Salesperson,122696,Mobile App,Text,Evening,French
+17041,25,Female,Separated,Associate Degree,Salesperson,146025,Mobile App,Phone,Afternoon,English
+17044,27,Male,Married,Master's Degree,Lawyer,51357,Email,Email,Afternoon,German
+17048,41,Male,Separated,Doctorate,Nurse,74952,Mobile App,Mail,Afternoon,French
+17059,63,Male,Married,Master's Degree,Lawyer,119825,Email,Email,Anytime,Mandarin
+17062,24,Male,Widowed,Associate Degree,Manager,64743,Mobile App,Email,Morning,German
+17064,68,Female,Married,Associate Degree,Artist,48377,Mobile App,Mail,Evening,Mandarin
+17068,61,Female,Married,Doctorate,Doctor,142244,Chat,Phone,Evening,French
+17069,34,Male,Married,Master's Degree,Manager,77405,Chat,In-Person Meeting,Evening,German
+17071,50,Male,Divorced,High School Diploma,Salesperson,97121,Mobile App,In-Person Meeting,Weekends,French
+17075,31,Female,Widowed,Bachelor's Degree,Entrepreneur,25621,Phone,Text,Morning,French
+17076,33,Male,Married,Master's Degree,Teacher,117255,Mobile App,Phone,Weekends,German
+17082,67,Male,Single,Associate Degree,Manager,95004,Mobile App,Phone,Morning,Mandarin
+17085,48,Female,Widowed,Doctorate,Lawyer,146303,Chat,Text,Morning,German
+17090,45,Female,Single,High School Diploma,Entrepreneur,50574,Chat,In-Person Meeting,Morning,English
+17091,24,Female,Divorced,Bachelor's Degree,Engineer,120373,Chat,In-Person Meeting,Morning,German
+17094,35,Male,Divorced,Master's Degree,Teacher,56502,Phone,In-Person Meeting,Weekends,Spanish
+17095,19,Male,Married,High School Diploma,Manager,25715,Phone,Phone,Evening,Mandarin
+17097,48,Male,Divorced,Bachelor's Degree,Entrepreneur,43199,Phone,Phone,Morning,English
+17105,32,Female,Married,Doctorate,Engineer,108472,In-Person,Text,Morning,German
+17114,32,Male,Married,High School Diploma,Teacher,95711,Chat,Text,Evening,Spanish
+17118,38,Male,Divorced,Doctorate,Salesperson,120828,In-Person,Mail,Weekends,Mandarin
+17126,51,Male,Single,Doctorate,Artist,22722,Mobile App,In-Person Meeting,Morning,French
+17128,36,Male,Separated,Bachelor's Degree,Artist,35158,Chat,Mail,Anytime,Spanish
+17135,62,Male,Divorced,Bachelor's Degree,Nurse,34740,Chat,Email,Afternoon,English
+17146,53,Male,Single,Doctorate,Artist,24319,Phone,Text,Evening,Mandarin
+17147,45,Male,Single,Doctorate,Lawyer,36481,Chat,Phone,Evening,Mandarin
+17158,35,Male,Single,Doctorate,Salesperson,142385,Email,Email,Afternoon,English
+17179,38,Male,Separated,Master's Degree,Engineer,119947,Mobile App,Mail,Evening,French
+17180,65,Female,Widowed,Master's Degree,Lawyer,89933,Phone,Mail,Weekends,Mandarin
+17181,56,Male,Married,Associate Degree,Lawyer,93631,Chat,Mail,Weekends,German
+17188,66,Male,Married,Master's Degree,Manager,114567,Chat,Mail,Anytime,English
+17189,53,Female,Widowed,Doctorate,Entrepreneur,24591,Phone,Mail,Afternoon,German
+17191,56,Male,Widowed,Associate Degree,Entrepreneur,104515,In-Person,Mail,Weekends,Mandarin
+17194,42,Female,Married,Associate Degree,Entrepreneur,46268,Chat,Mail,Weekends,Mandarin
+17198,19,Female,Single,High School Diploma,Manager,38661,Phone,Email,Anytime,German
+17204,20,Male,Single,Master's Degree,Artist,101282,Phone,In-Person Meeting,Evening,Mandarin
+17211,70,Male,Divorced,Doctorate,Teacher,99488,Phone,In-Person Meeting,Afternoon,English
+17213,26,Male,Widowed,Bachelor's Degree,Artist,88553,Email,Mail,Evening,English
+17214,63,Male,Separated,High School Diploma,Engineer,56281,Mobile App,In-Person Meeting,Weekends,French
+17218,33,Male,Divorced,Bachelor's Degree,Nurse,105079,Email,Email,Morning,Spanish
+17220,47,Female,Widowed,Associate Degree,Salesperson,69085,Mobile App,Mail,Afternoon,German
+17223,66,Female,Separated,Doctorate,Manager,98240,Mobile App,In-Person Meeting,Evening,German
+17226,65,Female,Divorced,High School Diploma,Artist,83117,Phone,Phone,Weekends,French
+17227,69,Female,Married,High School Diploma,Doctor,80916,In-Person,Phone,Weekends,Spanish
+17228,21,Male,Married,High School Diploma,Artist,128745,In-Person,Email,Weekends,German
+17230,43,Male,Widowed,High School Diploma,Entrepreneur,148182,Phone,Text,Evening,Mandarin
+17231,63,Female,Separated,High School Diploma,Lawyer,51760,Mobile App,Email,Weekends,German
+17235,39,Female,Married,Master's Degree,Teacher,72314,Phone,In-Person Meeting,Afternoon,English
+17236,69,Male,Divorced,Bachelor's Degree,Doctor,58214,Phone,Phone,Weekends,Mandarin
+17238,65,Female,Single,High School Diploma,Nurse,135528,Chat,In-Person Meeting,Morning,French
+17239,43,Female,Married,Associate Degree,Entrepreneur,119175,In-Person,Text,Anytime,French
+17243,29,Male,Separated,Master's Degree,Manager,76895,In-Person,Phone,Evening,Mandarin
+17251,27,Female,Widowed,Master's Degree,Teacher,91460,Mobile App,Text,Evening,Spanish
+17256,38,Male,Separated,Associate Degree,Entrepreneur,77037,Email,Text,Anytime,Mandarin
+17259,24,Male,Single,Bachelor's Degree,Doctor,99076,Phone,Email,Afternoon,German
+17262,21,Male,Separated,Master's Degree,Engineer,73324,Mobile App,Text,Afternoon,Mandarin
+17277,63,Female,Married,Associate Degree,Teacher,95830,In-Person,Mail,Afternoon,German
+17284,26,Female,Married,Bachelor's Degree,Entrepreneur,96829,Chat,Text,Morning,English
+17287,51,Male,Widowed,Master's Degree,Entrepreneur,134612,In-Person,Text,Evening,German
+17288,35,Male,Divorced,Master's Degree,Salesperson,48302,Phone,Phone,Morning,French
+17291,54,Male,Divorced,Bachelor's Degree,Doctor,85271,Email,In-Person Meeting,Weekends,French
+17293,56,Female,Widowed,Bachelor's Degree,Manager,78885,Phone,Text,Morning,English
+17303,31,Male,Divorced,High School Diploma,Entrepreneur,95221,Phone,Phone,Morning,Mandarin
+17306,54,Male,Married,Master's Degree,Manager,31939,Phone,Phone,Afternoon,English
+17307,47,Male,Widowed,Master's Degree,Doctor,79304,In-Person,Email,Afternoon,German
+17311,34,Female,Single,Bachelor's Degree,Entrepreneur,55673,Chat,Email,Morning,German
+17314,40,Female,Divorced,High School Diploma,Salesperson,129569,Phone,Text,Morning,Spanish
+17315,41,Female,Widowed,Doctorate,Salesperson,111690,In-Person,Phone,Morning,English
+17320,70,Male,Widowed,High School Diploma,Doctor,117683,Phone,In-Person Meeting,Morning,English
+17324,56,Male,Widowed,Master's Degree,Nurse,115533,In-Person,Phone,Anytime,French
+17329,42,Female,Divorced,Bachelor's Degree,Doctor,52011,Chat,Phone,Anytime,French
+17334,22,Male,Married,Doctorate,Engineer,71446,Mobile App,Phone,Evening,Mandarin
+17337,69,Female,Single,Doctorate,Lawyer,51979,Email,Mail,Evening,English
+17338,69,Female,Divorced,Associate Degree,Manager,39101,Email,Text,Evening,German
+17339,68,Male,Separated,High School Diploma,Manager,123472,Email,Text,Evening,Spanish
+17340,45,Male,Single,High School Diploma,Salesperson,38959,In-Person,Phone,Weekends,French
+17341,29,Male,Divorced,Master's Degree,Teacher,54080,Phone,Mail,Evening,English
+17343,41,Female,Widowed,High School Diploma,Nurse,116145,Mobile App,Mail,Anytime,German
+17346,69,Male,Separated,Master's Degree,Artist,61700,Mobile App,Mail,Anytime,English
+17356,41,Male,Widowed,Master's Degree,Engineer,111964,Mobile App,Mail,Afternoon,English
+17358,23,Female,Separated,High School Diploma,Artist,102470,Email,In-Person Meeting,Evening,English
+17362,61,Female,Widowed,Bachelor's Degree,Entrepreneur,48309,Phone,Email,Evening,German
+17364,22,Male,Married,Doctorate,Manager,51026,Phone,Mail,Morning,English
+17365,70,Male,Divorced,Doctorate,Lawyer,115893,Email,Mail,Weekends,Spanish
+17368,51,Female,Divorced,Doctorate,Salesperson,114879,Chat,Phone,Weekends,French
+17371,65,Male,Single,Master's Degree,Lawyer,59085,Email,Mail,Anytime,Spanish
+17372,61,Female,Widowed,Bachelor's Degree,Nurse,148493,Phone,Text,Evening,French
+17373,24,Male,Divorced,Doctorate,Engineer,87073,In-Person,Text,Morning,Spanish
+17375,41,Female,Married,Master's Degree,Lawyer,99897,Chat,Mail,Evening,English
+17376,20,Male,Widowed,Master's Degree,Doctor,97602,Email,Text,Anytime,French
+17377,54,Female,Separated,Associate Degree,Salesperson,145535,Chat,Email,Weekends,German
+17381,35,Male,Divorced,High School Diploma,Lawyer,32799,Mobile App,Email,Afternoon,German
+17389,68,Male,Single,Associate Degree,Manager,115904,In-Person,Text,Evening,Spanish
+17392,68,Female,Divorced,Doctorate,Salesperson,84178,Chat,Text,Morning,French
+17396,35,Female,Separated,High School Diploma,Lawyer,38229,In-Person,Phone,Weekends,Spanish
+17400,43,Female,Divorced,Doctorate,Doctor,25661,Phone,Text,Evening,German
+17402,24,Female,Married,High School Diploma,Nurse,148131,Phone,Phone,Afternoon,German
+17404,43,Male,Single,High School Diploma,Artist,133689,Mobile App,Phone,Afternoon,Mandarin
+17406,36,Female,Married,Associate Degree,Lawyer,70458,Email,Phone,Afternoon,German
+17411,59,Male,Divorced,Associate Degree,Teacher,121653,In-Person,Phone,Afternoon,Spanish
+17412,64,Female,Separated,Doctorate,Salesperson,118038,Mobile App,Email,Afternoon,Spanish
+17418,61,Female,Separated,Doctorate,Engineer,56037,Mobile App,In-Person Meeting,Evening,French
+17419,49,Male,Separated,Doctorate,Entrepreneur,32095,Chat,Phone,Anytime,Spanish
+17420,31,Female,Single,Associate Degree,Teacher,90301,Mobile App,In-Person Meeting,Evening,French
+17428,39,Male,Married,Bachelor's Degree,Manager,26608,Phone,In-Person Meeting,Afternoon,English
+17430,66,Female,Separated,Master's Degree,Doctor,123145,Mobile App,Email,Anytime,French
+17431,25,Male,Divorced,Associate Degree,Artist,85116,Email,In-Person Meeting,Afternoon,Spanish
+17442,57,Female,Married,Associate Degree,Salesperson,98213,Mobile App,In-Person Meeting,Morning,Mandarin
+17446,42,Male,Separated,Bachelor's Degree,Salesperson,35612,Chat,Text,Weekends,Spanish
+17449,31,Male,Separated,Associate Degree,Doctor,82620,Mobile App,Phone,Weekends,Spanish
+17450,25,Female,Widowed,Associate Degree,Doctor,112247,In-Person,In-Person Meeting,Anytime,German
+17454,46,Female,Separated,Associate Degree,Nurse,116956,Chat,Text,Anytime,German
+17456,55,Male,Widowed,Bachelor's Degree,Manager,123220,Phone,Mail,Morning,French
+17457,32,Female,Married,Associate Degree,Teacher,32302,Mobile App,In-Person Meeting,Evening,German
+17460,65,Male,Divorced,Doctorate,Artist,69140,Mobile App,Email,Evening,English
+17463,20,Female,Widowed,Associate Degree,Nurse,42851,Email,Text,Evening,French
+17470,25,Male,Married,Doctorate,Salesperson,82036,Chat,In-Person Meeting,Anytime,Mandarin
+17491,43,Male,Divorced,Master's Degree,Artist,146718,Email,Phone,Afternoon,German
+17496,27,Male,Divorced,Master's Degree,Doctor,146905,Mobile App,Mail,Anytime,Mandarin
+17504,30,Female,Separated,Associate Degree,Manager,69103,Mobile App,Email,Afternoon,Spanish
+17507,30,Female,Single,Associate Degree,Manager,25537,Mobile App,In-Person Meeting,Weekends,Spanish
+17511,69,Female,Married,Bachelor's Degree,Artist,114236,Mobile App,Mail,Weekends,Spanish
+17515,31,Female,Separated,Doctorate,Entrepreneur,108198,Mobile App,In-Person Meeting,Evening,English
+17517,37,Male,Divorced,Associate Degree,Doctor,54126,Phone,Text,Morning,German
+17519,69,Female,Married,Associate Degree,Doctor,65872,Mobile App,Email,Afternoon,German
+17524,39,Male,Single,Associate Degree,Nurse,120448,Chat,Phone,Afternoon,German
+17525,21,Female,Separated,Master's Degree,Entrepreneur,141568,Chat,Phone,Evening,Spanish
+17526,69,Female,Widowed,Doctorate,Engineer,39113,Phone,Phone,Morning,French
+17530,52,Female,Separated,Master's Degree,Artist,35773,Chat,Mail,Morning,German
+17540,54,Female,Single,Master's Degree,Doctor,52115,Mobile App,In-Person Meeting,Evening,German
+17547,48,Male,Divorced,Doctorate,Teacher,25988,Email,Text,Morning,Spanish
+17548,48,Female,Divorced,Bachelor's Degree,Teacher,107359,Email,Text,Evening,Mandarin
+17551,21,Male,Married,Bachelor's Degree,Teacher,28307,Phone,Email,Evening,English
+17552,39,Male,Single,High School Diploma,Doctor,106047,Chat,Text,Anytime,English
+17555,37,Female,Widowed,Bachelor's Degree,Artist,84485,Email,Phone,Afternoon,Mandarin
+17560,67,Male,Married,Bachelor's Degree,Salesperson,82724,Chat,Email,Weekends,French
+17567,68,Male,Widowed,High School Diploma,Nurse,87337,In-Person,Phone,Weekends,English
+17569,60,Male,Married,Doctorate,Artist,75624,Chat,Mail,Morning,Mandarin
+17572,54,Male,Married,Master's Degree,Doctor,66068,In-Person,Phone,Weekends,Mandarin
+17576,33,Female,Married,Master's Degree,Engineer,54241,Phone,Email,Morning,French
+17580,32,Male,Married,Doctorate,Manager,29689,Mobile App,In-Person Meeting,Evening,English
+17581,70,Male,Married,Bachelor's Degree,Manager,116189,Phone,Phone,Weekends,English
+17585,35,Female,Divorced,High School Diploma,Artist,107072,Mobile App,Email,Morning,English
+17591,70,Male,Single,Bachelor's Degree,Artist,138230,Phone,In-Person Meeting,Anytime,French
+17593,31,Female,Married,High School Diploma,Lawyer,49321,Chat,Email,Weekends,Spanish
+17596,38,Male,Widowed,High School Diploma,Engineer,131241,Chat,Mail,Afternoon,English
+17602,54,Male,Divorced,High School Diploma,Salesperson,50139,Mobile App,Email,Morning,English
+17604,37,Male,Separated,Master's Degree,Entrepreneur,109704,In-Person,Email,Afternoon,Spanish
+17609,29,Male,Married,High School Diploma,Engineer,22757,Mobile App,Text,Anytime,English
+17611,49,Female,Divorced,Doctorate,Artist,144602,Phone,In-Person Meeting,Anytime,German
+17616,54,Male,Separated,Master's Degree,Doctor,82147,Phone,Mail,Anytime,French
+17618,58,Female,Divorced,Master's Degree,Teacher,58840,Chat,Text,Morning,Spanish
+17619,55,Female,Separated,Associate Degree,Nurse,136166,Chat,Mail,Morning,French
+17621,57,Female,Widowed,Bachelor's Degree,Teacher,34632,Mobile App,Email,Morning,English
+17629,70,Female,Single,Doctorate,Teacher,111165,In-Person,Text,Morning,Spanish
+17633,48,Female,Divorced,Associate Degree,Teacher,95165,Email,Mail,Afternoon,Spanish
+17634,56,Male,Separated,Doctorate,Teacher,114425,Phone,Mail,Anytime,French
+17643,53,Male,Married,Master's Degree,Doctor,76843,In-Person,Email,Weekends,Mandarin
+17644,39,Male,Single,High School Diploma,Artist,106966,Phone,Email,Weekends,English
+17646,39,Male,Widowed,High School Diploma,Salesperson,55172,Email,Text,Weekends,French
+17655,25,Male,Divorced,Bachelor's Degree,Nurse,87943,In-Person,In-Person Meeting,Anytime,German
+17659,26,Female,Married,High School Diploma,Artist,37298,Phone,Text,Anytime,Mandarin
+17671,31,Male,Divorced,High School Diploma,Salesperson,35225,Email,Mail,Weekends,French
+17672,57,Male,Single,Associate Degree,Entrepreneur,56281,Phone,Phone,Evening,German
+17673,51,Female,Married,Doctorate,Artist,91308,Phone,Text,Weekends,English
+17674,26,Female,Separated,Doctorate,Lawyer,69095,Email,Mail,Afternoon,German
+17675,19,Female,Divorced,Associate Degree,Manager,53342,Email,Text,Evening,English
+17676,31,Female,Married,Associate Degree,Nurse,27704,Phone,Text,Evening,German
+17677,37,Male,Divorced,Associate Degree,Engineer,108143,In-Person,Text,Afternoon,French
+17682,21,Male,Widowed,Bachelor's Degree,Engineer,96978,Chat,Mail,Anytime,German
+17685,68,Male,Married,High School Diploma,Entrepreneur,69328,Mobile App,Email,Anytime,Mandarin
+17690,64,Male,Separated,Doctorate,Engineer,64700,Chat,Text,Afternoon,Mandarin
+17691,51,Female,Married,Associate Degree,Artist,97678,Chat,Text,Morning,English
+17692,69,Female,Single,Master's Degree,Lawyer,39964,Phone,Email,Morning,German
+17696,55,Male,Widowed,Bachelor's Degree,Artist,111104,Phone,Email,Afternoon,Mandarin
+17700,35,Female,Single,High School Diploma,Doctor,27496,Mobile App,Mail,Anytime,French
+17702,19,Male,Married,Master's Degree,Salesperson,44504,In-Person,Email,Afternoon,Spanish
+17706,40,Female,Widowed,High School Diploma,Artist,33400,Mobile App,Email,Evening,French
+17707,33,Female,Widowed,Associate Degree,Manager,134182,Email,Text,Weekends,Spanish
+17708,67,Male,Widowed,Bachelor's Degree,Artist,52886,Chat,In-Person Meeting,Weekends,Spanish
+17714,26,Female,Single,Bachelor's Degree,Doctor,121559,In-Person,In-Person Meeting,Evening,Mandarin
+17720,47,Male,Separated,High School Diploma,Salesperson,83612,Chat,Text,Weekends,German
+17722,47,Male,Single,High School Diploma,Artist,116455,Mobile App,Email,Morning,French
+17730,43,Male,Divorced,Doctorate,Doctor,148060,Email,Phone,Afternoon,French
+17732,45,Male,Divorced,Master's Degree,Doctor,25078,Email,Email,Afternoon,French
+17735,58,Female,Single,Associate Degree,Engineer,61576,Mobile App,Mail,Morning,French
+17739,45,Female,Single,Master's Degree,Lawyer,104800,Chat,Text,Morning,English
+17742,43,Male,Single,Master's Degree,Salesperson,74543,Chat,Text,Morning,French
+17744,37,Male,Divorced,Associate Degree,Manager,123132,In-Person,Text,Weekends,Mandarin
+17752,60,Female,Widowed,Associate Degree,Artist,144083,Mobile App,Email,Afternoon,German
+17757,48,Female,Divorced,Bachelor's Degree,Salesperson,92807,Chat,Email,Afternoon,German
+17760,62,Male,Widowed,High School Diploma,Salesperson,77078,Chat,Mail,Anytime,Spanish
+17769,37,Female,Divorced,High School Diploma,Artist,35231,Mobile App,Phone,Weekends,German
+17771,48,Male,Divorced,Associate Degree,Artist,122759,Phone,Text,Afternoon,Mandarin
+17786,21,Female,Married,Associate Degree,Entrepreneur,121107,In-Person,Mail,Evening,French
+17787,20,Female,Married,Master's Degree,Lawyer,118627,In-Person,Phone,Weekends,English
+17790,53,Female,Single,Associate Degree,Lawyer,57194,Phone,Email,Anytime,French
+17796,63,Male,Divorced,High School Diploma,Salesperson,51096,Chat,Email,Weekends,Spanish
+17799,58,Male,Married,Doctorate,Doctor,84346,Mobile App,Phone,Weekends,Spanish
+17800,68,Male,Divorced,Associate Degree,Lawyer,99099,In-Person,In-Person Meeting,Morning,French
+17802,64,Male,Widowed,High School Diploma,Manager,145422,Mobile App,Phone,Morning,English
+17809,35,Male,Married,Master's Degree,Artist,61003,Phone,Email,Morning,English
+17811,51,Male,Married,High School Diploma,Artist,124742,Email,Text,Evening,Mandarin
+17812,38,Male,Single,Bachelor's Degree,Teacher,86439,Chat,Mail,Afternoon,English
+17816,45,Female,Widowed,Associate Degree,Manager,49387,Email,In-Person Meeting,Weekends,French
+17819,25,Female,Separated,Master's Degree,Artist,37647,Chat,Email,Anytime,German
+17820,53,Male,Divorced,Doctorate,Nurse,110375,In-Person,Text,Evening,French
+17827,70,Male,Married,Master's Degree,Manager,134669,Phone,Phone,Anytime,Mandarin
+17838,38,Male,Single,High School Diploma,Salesperson,70348,In-Person,Phone,Anytime,English
+17841,53,Female,Widowed,Master's Degree,Doctor,94222,Phone,Phone,Afternoon,German
+17848,26,Male,Widowed,Master's Degree,Artist,85723,In-Person,Mail,Anytime,English
+17849,49,Female,Divorced,High School Diploma,Salesperson,59061,Phone,Email,Morning,Spanish
+17850,23,Female,Married,Associate Degree,Entrepreneur,70541,Phone,Email,Afternoon,English
+17855,37,Male,Single,Doctorate,Artist,135417,In-Person,In-Person Meeting,Afternoon,German
+17857,66,Male,Single,High School Diploma,Teacher,137444,Chat,Phone,Anytime,German
+17858,64,Female,Divorced,Associate Degree,Entrepreneur,145953,Mobile App,Email,Evening,French
+17860,68,Female,Divorced,Master's Degree,Artist,26451,Email,Email,Afternoon,French
+17861,21,Female,Single,High School Diploma,Lawyer,48293,Chat,Email,Anytime,English
+17862,64,Male,Widowed,Master's Degree,Lawyer,124371,Email,Mail,Weekends,English
+17863,62,Male,Widowed,Bachelor's Degree,Entrepreneur,72139,Chat,In-Person Meeting,Evening,Mandarin
+17865,49,Female,Separated,Master's Degree,Doctor,87809,Mobile App,Phone,Weekends,Mandarin
+17869,41,Female,Divorced,Bachelor's Degree,Teacher,140657,Mobile App,Text,Weekends,Spanish
+17870,63,Male,Separated,Bachelor's Degree,Manager,33827,Mobile App,Mail,Evening,English
+17873,23,Female,Widowed,Associate Degree,Engineer,143411,Phone,In-Person Meeting,Anytime,Mandarin
+17880,33,Male,Single,Master's Degree,Teacher,55732,Chat,Text,Morning,German
+17884,31,Male,Divorced,Associate Degree,Manager,65752,Email,Email,Weekends,English
+17888,32,Female,Single,High School Diploma,Engineer,146039,In-Person,Text,Weekends,English
+17889,51,Male,Widowed,Associate Degree,Doctor,31183,In-Person,Mail,Evening,German
+17890,66,Male,Widowed,Master's Degree,Engineer,34060,Email,Email,Morning,German
+17894,36,Female,Married,High School Diploma,Doctor,55161,Email,Email,Evening,Spanish
+17897,70,Female,Single,Master's Degree,Artist,64875,Chat,Phone,Morning,Spanish
+17905,30,Female,Married,Associate Degree,Engineer,148655,In-Person,Text,Morning,French
+17908,45,Female,Widowed,Bachelor's Degree,Artist,24313,Email,Email,Weekends,Spanish
+17912,26,Male,Married,Bachelor's Degree,Doctor,40472,In-Person,Email,Evening,German
+17913,35,Male,Married,Bachelor's Degree,Entrepreneur,23482,Mobile App,Phone,Anytime,French
+17917,37,Female,Married,High School Diploma,Salesperson,62005,Chat,In-Person Meeting,Morning,English
+17920,51,Female,Single,Doctorate,Engineer,107642,In-Person,Phone,Morning,German
+17924,58,Male,Married,Bachelor's Degree,Lawyer,103753,Chat,Phone,Weekends,Mandarin
+17925,55,Male,Single,Doctorate,Manager,122826,Chat,Email,Weekends,Mandarin
+17929,50,Male,Married,Master's Degree,Salesperson,77574,Chat,In-Person Meeting,Afternoon,Spanish
+17937,58,Female,Married,Doctorate,Engineer,66206,In-Person,Mail,Afternoon,German
+17949,36,Female,Single,Associate Degree,Teacher,145829,Email,Text,Anytime,English
+17950,33,Male,Separated,High School Diploma,Artist,92948,Email,Mail,Afternoon,Spanish
+17951,51,Male,Married,Associate Degree,Nurse,46211,Chat,Mail,Weekends,French
+17954,36,Male,Widowed,Master's Degree,Salesperson,118070,Mobile App,Email,Weekends,German
+17961,53,Female,Separated,High School Diploma,Engineer,41080,Mobile App,In-Person Meeting,Morning,German
+17964,31,Male,Divorced,High School Diploma,Doctor,143758,Chat,Mail,Weekends,Mandarin
+17965,68,Male,Divorced,Doctorate,Artist,70107,Chat,Email,Morning,Spanish
+17967,45,Female,Widowed,Master's Degree,Entrepreneur,76638,Chat,Mail,Weekends,German
+17968,25,Female,Divorced,Bachelor's Degree,Doctor,66966,Phone,Email,Weekends,French
+17969,67,Female,Separated,High School Diploma,Nurse,106737,Email,Phone,Weekends,French
+17975,52,Male,Separated,Master's Degree,Lawyer,36035,In-Person,Phone,Anytime,Mandarin
+17976,23,Female,Married,Associate Degree,Lawyer,88143,Mobile App,In-Person Meeting,Morning,English
+17978,28,Female,Married,Bachelor's Degree,Entrepreneur,132291,Chat,Email,Evening,German
+17980,55,Female,Divorced,High School Diploma,Entrepreneur,36194,Email,Mail,Anytime,Spanish
+17988,45,Female,Married,Doctorate,Doctor,116520,Mobile App,In-Person Meeting,Afternoon,Mandarin
+17990,35,Female,Separated,Doctorate,Nurse,117108,Chat,Mail,Evening,Spanish
+17999,61,Male,Divorced,Associate Degree,Manager,41197,Phone,Text,Afternoon,French
+18004,31,Female,Divorced,Doctorate,Teacher,53363,Mobile App,Email,Weekends,English
+18008,31,Male,Divorced,Bachelor's Degree,Doctor,42799,Email,Email,Evening,Mandarin
+18011,23,Male,Married,Associate Degree,Lawyer,25667,Chat,Text,Weekends,English
+18016,25,Female,Married,Doctorate,Manager,45054,Chat,Phone,Anytime,French
+18017,56,Female,Separated,Bachelor's Degree,Nurse,77913,Email,Text,Weekends,Mandarin
+18032,55,Female,Married,Doctorate,Lawyer,114726,Email,Text,Weekends,English
+18037,26,Female,Divorced,Associate Degree,Entrepreneur,121092,Email,Mail,Evening,Mandarin
+18041,44,Male,Divorced,Associate Degree,Teacher,52823,Mobile App,Email,Evening,Mandarin
+18043,31,Male,Divorced,Bachelor's Degree,Entrepreneur,124290,Phone,Phone,Morning,Mandarin
+18044,41,Female,Married,Associate Degree,Teacher,89879,Phone,Phone,Evening,French
+18050,63,Female,Married,Doctorate,Nurse,66992,In-Person,Email,Weekends,French
+18055,48,Male,Divorced,High School Diploma,Doctor,33578,Chat,In-Person Meeting,Weekends,French
+18061,65,Male,Single,Doctorate,Doctor,30781,Mobile App,Mail,Morning,French
+18062,40,Female,Single,High School Diploma,Salesperson,134173,Mobile App,Mail,Afternoon,English
+18065,19,Male,Divorced,Bachelor's Degree,Manager,72346,Phone,Phone,Morning,French
+18069,42,Female,Widowed,High School Diploma,Salesperson,91088,Mobile App,Phone,Weekends,German
+18071,64,Female,Separated,Associate Degree,Engineer,134646,In-Person,Text,Morning,German
+18074,47,Female,Married,Associate Degree,Lawyer,110698,Chat,In-Person Meeting,Afternoon,German
+18075,43,Female,Single,Bachelor's Degree,Salesperson,38693,Email,Text,Anytime,French
+18077,29,Male,Single,Master's Degree,Lawyer,26183,Mobile App,Email,Anytime,German
+18085,69,Female,Divorced,Associate Degree,Artist,105191,Email,In-Person Meeting,Anytime,Mandarin
+18092,53,Male,Separated,Associate Degree,Nurse,111563,Phone,Mail,Weekends,Spanish
+18095,42,Female,Widowed,Associate Degree,Salesperson,28340,Phone,Mail,Anytime,English
+18097,19,Male,Single,Bachelor's Degree,Engineer,73259,Chat,Mail,Morning,German
+18102,27,Male,Divorced,Bachelor's Degree,Teacher,143959,Chat,Email,Morning,German
+18106,23,Male,Divorced,Associate Degree,Lawyer,116985,Chat,Email,Evening,French
+18109,38,Male,Married,Doctorate,Manager,99136,Mobile App,Text,Weekends,French
+18113,51,Female,Widowed,Associate Degree,Salesperson,52883,Phone,In-Person Meeting,Weekends,Mandarin
+18116,40,Female,Single,Doctorate,Manager,51831,Chat,Email,Morning,French
+18118,31,Male,Separated,Associate Degree,Teacher,113605,In-Person,Text,Weekends,English
+18119,33,Male,Divorced,High School Diploma,Lawyer,113436,Chat,Phone,Morning,French
+18125,68,Male,Separated,Doctorate,Manager,82315,In-Person,Phone,Evening,French
+18136,37,Male,Married,High School Diploma,Doctor,49021,Chat,In-Person Meeting,Weekends,English
+18141,51,Female,Married,Doctorate,Teacher,122379,In-Person,In-Person Meeting,Afternoon,Spanish
+18144,68,Male,Separated,Master's Degree,Nurse,138557,Email,In-Person Meeting,Morning,English
+18145,67,Female,Single,High School Diploma,Teacher,97299,Mobile App,Text,Morning,English
+18156,70,Female,Separated,Doctorate,Engineer,127115,Chat,Email,Weekends,German
+18161,53,Male,Divorced,Doctorate,Engineer,38543,In-Person,Text,Evening,German
+18168,37,Female,Divorced,Bachelor's Degree,Artist,125717,In-Person,Email,Afternoon,Mandarin
+18171,61,Male,Married,Bachelor's Degree,Salesperson,100289,Chat,Phone,Weekends,Mandarin
+18176,42,Male,Divorced,Master's Degree,Doctor,141096,Email,Mail,Evening,French
+18178,23,Female,Married,Master's Degree,Lawyer,23146,Mobile App,In-Person Meeting,Afternoon,German
+18179,39,Male,Single,High School Diploma,Engineer,109580,Mobile App,Phone,Afternoon,French
+18190,61,Male,Separated,Associate Degree,Salesperson,57538,In-Person,Mail,Weekends,English
+18193,37,Female,Separated,Doctorate,Lawyer,50076,Mobile App,Mail,Weekends,German
+18198,54,Male,Married,High School Diploma,Lawyer,114924,Phone,Mail,Morning,French
+18202,55,Male,Separated,High School Diploma,Salesperson,148060,Chat,Text,Evening,English
+18212,57,Male,Married,High School Diploma,Manager,34542,Chat,Text,Weekends,Mandarin
+18219,37,Male,Married,Doctorate,Engineer,128946,Phone,Email,Evening,English
+18223,24,Male,Married,Doctorate,Teacher,79196,Mobile App,Text,Evening,Spanish
+18225,37,Female,Widowed,Master's Degree,Teacher,56568,Chat,In-Person Meeting,Morning,German
+18226,46,Male,Separated,High School Diploma,Engineer,108672,Chat,In-Person Meeting,Weekends,Spanish
+18229,40,Male,Widowed,Bachelor's Degree,Teacher,39132,In-Person,In-Person Meeting,Weekends,Mandarin
+18230,55,Female,Divorced,Master's Degree,Manager,132944,Chat,In-Person Meeting,Morning,Mandarin
+18233,68,Female,Widowed,Associate Degree,Entrepreneur,80408,Email,Mail,Afternoon,German
+18239,62,Female,Divorced,Associate Degree,Engineer,137030,Chat,In-Person Meeting,Anytime,French
+18245,68,Male,Divorced,High School Diploma,Salesperson,72723,In-Person,Mail,Afternoon,Mandarin
+18250,20,Female,Married,Master's Degree,Lawyer,56929,Chat,Email,Morning,Spanish
+18256,26,Male,Single,Bachelor's Degree,Salesperson,133831,Email,In-Person Meeting,Anytime,French
+18259,47,Male,Single,High School Diploma,Artist,33237,Mobile App,Text,Evening,Mandarin
+18260,36,Male,Widowed,Bachelor's Degree,Manager,125704,In-Person,Mail,Weekends,German
+18269,25,Male,Divorced,Master's Degree,Artist,131321,Email,In-Person Meeting,Weekends,French
+18277,21,Female,Divorced,Bachelor's Degree,Entrepreneur,39247,Chat,Mail,Afternoon,German
+18283,25,Male,Married,Associate Degree,Entrepreneur,111441,Phone,Text,Evening,German
